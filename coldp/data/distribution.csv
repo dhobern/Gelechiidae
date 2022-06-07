@@ -5583,7 +5583,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 10517,,,,,Nearctic: USA (Texas).
 10518,,,,,Neotropical: Peru.
 10520,,,,,Neotropical: Colombia.
-10521,,,,,Neartic: USA (Texas).
+10521,,,,,Nearctic: USA (Texas).
 10522,,,,,Neotropical: Peru.
 10523,,,,,"Neotropical: Peru, Argentina."
 10525,,,,,"Nearctic: USA (California, District of Columbia, Illinois, Maine, Michigan, Missouri, New Hampshire, Ohio, Texas)."
@@ -6074,3 +6074,6 @@ taxonId,area,gazetteer,status,referenceID,remarks
 11436,,,,,Oriental: Vietnam (North).
 11437,,,,,Oriental: Korea (Jeonnam).
 11438,,,,,Oriental: Korea (Jeonnam).
+11440,,,,,"Nearctic: USA (Texas, Colorado, Kansas)."
+11441,,,,,Neotropical: Panama.
+11442,,,,,Neotropical: Chile.
