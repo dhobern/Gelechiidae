@@ -2453,7 +2453,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 4697,,,,,Neotropical: Brazil (Pará).
 4698,,,,,Afrotropical: South Africa (Limpopo).
 4700,,,,,"Neotropical: Mexico (Tabasco), Brazil (Amazonas)."
-4702,,,,,"OrientaL: India, Taiwan."
+4702,,,,,"Oriental: India, Taiwan."
 4703,,,,,Neotropical: Brazil (Amazonas).
 4705,,,,,Palaearctic: Russian Far East.
 4707,,,,,Nearctic: USA (Arizona).
@@ -6092,3 +6092,12 @@ taxonId,area,gazetteer,status,referenceID,remarks
 11458,,,,,Afrotropical: Namibia.
 11459,,,,,Palearctic: Iran.
 11460,,,,,Afrotropical: Namibia.
+11463,,,,,Oriental: Laos.
+11464,,,,,Oriental: Laos.
+11465,,,,,Oriental: Laos.
+11466,,,,,Oriental: Malaysia (Sabah).
+11467,,,,,Oriental: Malaysia (Sarawak).
+11468,,,,,Oriental: Laos.
+11470,,,,,Oriental: Malaysia (Sabah).
+11472,,,,,Oriental: Laos.
+11473,,,,,Oriental: Laos.
