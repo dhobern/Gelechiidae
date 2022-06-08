@@ -11474,7 +11474,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 11483,11483,Vientiana,"M. Omelko & N. Omelko, 2018",genus,Vientiana,,,,,8870,,ICZN,"Omelko & Omelko 2018: 1323 gen. nov."
 11484,11484,Vientiana patricki,"M. Omelko & N.Omelko, 2018",species,,Vientiana,,patricki,,8870,,ICZN,"Omelko & Omelko 2018: 1324 sp. nov."
 11485,11485,Semophylax crassiuscula,"M. Omelko & N. Omelko, 2018",species,,Semophylax,,crassiuscula,,8870,,ICZN,"Omelko & Omelko 2018: 1325 sp. nov."
-11486,11486,Semophylax verecunda,"(M. Omelko, 1988)",species,,Semophylax,,verecundum,,7821,,ICZN,"Omelko & Omelko 2018: 1325 comb. nov., nom. correctum"
+11486,11486,Semophylax verecunda,"(M. Omelko, 1988)",species,,Semophylax,,verecundum,,8870,,ICZN,"Omelko & Omelko 2018: 1325 comb. nov., nom. correctum"
 11487,11487,Mondeguina,"Corley & Rosete, 2020",genus,Mondeguina,,,,,8871,,ICZN,"Corley, Rosete & Ferreira 2020: 156 gen. nov."
 11488,11488,Mondeguina atlanticella,"Corley & Rosete, 2020",species,,Mondeguina,,atlanticella,,8871,,ICZN,"Corley, Rosete & Ferreira 2020: 158 sp. nov."
 11489,658,Mondeguina mediterranella,"(Nel & Varenne, 2012)",species,,Mondeguina,,mediterranella,,8871,,ICZN,"Corley, Rosete & Ferreira 2020: 158 comb. nov."
