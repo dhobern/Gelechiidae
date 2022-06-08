@@ -2162,7 +2162,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 2163,2163,Bryotropha sutteri,"Karsholt & Rutten, 2005",species,,Bryotropha,,sutteri,,1701,,ICZN,
 2164,2164,Bryotropha svenssoni,"Park, 1984",species,,Bryotropha,,svenssoni,,1702,,ICZN,"Close to B. similis (Stainton) (Karsholt & Rutten, 2005: 80, 143)."
 2165,2165,Bryotropha ambisenectella,"Li & Zheng, 1997",species,,Bryotropha,,ambisenectella,,1703,,ICZN,
-2166,2166,Bryotropha senectella,(Zeller) sensu Li & Zheng 1997,species,,Bryotropha,,senectella,,1704,,ICZN,
+2166,2166,Bryotropha senectella,(Zeller) sensu Li & Zheng 1997,species,,Bryotropha,,senectella,,1704,,ICZN,Misapplied: sensu Li & Zheng 1997
 2167,2168,Bryotropha tachyptilella,"(Rebel, 1916)",species,,Bryotropha,,tachyptilella,,,,ICZN,
 2168,2168,Lita tachyptilella,"Rebel, 1916",species,,Lita,,tachyptilella,,1705,,ICZN,
 2169,2170,Bryotropha terrella,"([Denis & Schiffermüller], 1775)",species,,Bryotropha,,terrella,,,,ICZN,Dubious/incorrect: South-East Asia (Karsholt & Rutten 2005: 114).
@@ -11465,3 +11465,22 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 11474,11474,Scrobipalpula wilsoni,"Vargas, 2019",species,,Scrobipalpula,,wilsoni,,8865,,ICZN,"Vargas 2019: 218 sp. nov."
 11475,11475,Scrobipalpomima manuscriptus,"Cepeda, 2019",species,,Scrobipalpomima,,manuscriptus,,8866,,ICZN,"Cepeda 2019: 22 sp. nov."
 11476,11476,Scrobipalpomima phalluspinosus,"Cepeda, 2019",species,,Scrobipalpomima,,phalluspinosus,,8866,,ICZN,"Cepeda 2019: 24 sp. nov."
+11477,11477,Caryocolum procurvella,"Šumpich, Huemer, & Bidzilya, 2020",species,,Caryocolum,,procurvella,,8867,,ICZN,"Šumpich, Huemer, Bidzilya 2020: 69 sp.nov."
+11478,11478,Caryocolum atrum,"Šumpich, Huemer, & Bidzilya, 2020",species,,Caryocolum,,atrum,,8867,,ICZN,"Šumpich, Huemer, Bidzilya 2020: 71 sp.nov."
+11479,11479,Amplusuncus,"Cepeda, 2018",genus,Amplusuncus,,,,,8868,,ICZN,"Cepeda 2018: 374 gen. nov."
+11480,11480,Amplusuncus cantus,"Cepeda, 2018",species,,Amplusuncus,,cantus,,8868,,ICZN,"Cepeda 2018: 378 sp. nov."
+11481,11481,Amplusuncus andes,"Cepeda, 2018",species,,Amplusuncus,,andes,,8868,,ICZN,"Cepeda 2018: 378 sp. nov."
+11482,11482,Recurvaria vanella,"Kemal, Kızıldağ & Koçak, 2019",species,,Recurvaria,,vanella,,8869,,ICZN,"Kemal, Kızıldağ, & Koçak 2018: 8 sp. nov."
+11483,11483,Vientiana,"M. Omelko & N. Omelko, 2018",genus,Vientiana,,,,,8870,,ICZN,"Omelko & Omelko 2018: 1323 gen. nov."
+11484,11484,Vientiana patricki,"M. Omelko & N.Omelko, 2018",species,,Vientiana,,patricki,,8870,,ICZN,"Omelko & Omelko 2018: 1324 sp. nov."
+11485,11485,Semophylax crassiuscula,"M. Omelko & N. Omelko, 2018",species,,Semophylax,,crassiuscula,,8870,,ICZN,"Omelko & Omelko 2018: 1325 sp. nov."
+11486,11486,Semophylax verecunda,"(M. Omelko, 1988)",species,,Semophylax,,verecundum,,7821,,ICZN,"Omelko & Omelko 2018: 1325 comb. nov., nom. correctum"
+11487,11487,Mondeguina,"Corley & Rosete, 2020",genus,Mondeguina,,,,,8871,,ICZN,"Corley, Rosete & Ferreira 2020: 156 gen. nov."
+11488,11488,Mondeguina atlanticella,"Corley & Rosete, 2020",species,,Mondeguina,,atlanticella,,8871,,ICZN,"Corley, Rosete & Ferreira 2020: 158 sp. nov."
+11489,658,Mondeguina mediterranella,"(Nel & Varenne, 2012)",species,,Mondeguina,,mediterranella,,8871,,ICZN,"Corley, Rosete & Ferreira 2020: 158 comb. nov."
+11490,643,Catatinagma agenjoi,"(Gozmány, 1954)",species,,Catatinagma,,agenjoi,,8871,,ICZN,"Corley, Rosete & Ferreira 2020: 164 comb. nov."
+11491,11491,Caryocolum messneri,"Huemer, 2020",species,,Caryocolum,,messneri,,8872,,ICZN,"Huemer 2020: 52 sp. nov."
+11492,11492,Caryocolum lamai,"Huemer, 2020",species,,Caryocolum,,lamai,,8872,,ICZN,"Huemer 2020: 53 sp. nov."
+11493,11493,Caryocolum habeleri,"Huemer, 2020",species,,Caryocolum,,habeleri,,8872,,ICZN,"Huemer 2020: 56 sp. nov."
+11494,2456,Caryocolum dianthella,"(Chrétien, 1925)",species,,Caryocolum,,dianthella,,8872,,ICZN,"Huemer 2020: 43 stat. rev."
+11495,2459,Caryocolum improvisella,"(Rebel, 1936)",species,,Caryocolum,,improvisella,,8872,,ICZN,"Huemer 2020: 45 stat. rev."

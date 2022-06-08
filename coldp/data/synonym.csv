@@ -994,7 +994,7 @@ taxonID,nameID,status,remarks
 2149,2161,synonym,"A junior subjective synonym of Gelechia similis Stainton, 1854 (Karsholt & Rutten 2005: 80 (Bryotropha))."
 2149,2162,synonym,"A junior subjective synonym of Gelechia similis Stainton, 1854 (Karsholt & Rutten 2005: 80 (Bryotropha))."
 2164,2165,synonym,"A junior subjective synonym of Bryotropha svenssoni Park, 1984 (Karsholt & Rutten, 2005: 80, 143 (Bryotropha))."
-2164,2166,misapplied,
+2164,2166,misapplied,"Misapplied: sensu Li & Zheng 1997"
 2167,2168,synonym,
 2169,2170,synonym,
 2169,2171,synonym,"A junior subjective synonym of Tinea terrella [Denis & Schiffermüller], 1775 (Herrich-Schäffer 1854: 173 (with ?) (Gelechia))."
@@ -4661,7 +4661,6 @@ taxonID,nameID,status,remarks
 10086,10087,synonym,
 10086,10088,synonym,"A junior subjective synonym of Psoricoptera apicepuncta Busck, 1911 (Meyrick 1932: 200 (Semophylax))."
 10086,10089,synonym,"An unjustified emendation of Psoricoptera apicepuncta Busck, 1911."
-10086,10090,synonym,"A junior subjective synonym of Psoricoptera apicepuncta Busck, 1911. Syn. nov."
 10091,10092,synonym,"A junior homonym of Sinevia Kerzhner, 1988 (Hemiptera); the objective replacement name is Sergeya Ponomarenko, 2008."
 10093,10094,synonym,
 10103,10104,synonym,
@@ -5150,3 +5149,5 @@ taxonID,nameID,status,remarks
 8206,8206,synonym,"Omelko & Omelko 2020: 706 comb. nov."
 8207,8207,synonym,"Omelko & Omelko 2020: 706 comb. nov."
 10750,10750,synonym,"Bidzilya & Mey 2018: 90 comb. nov."
+2455,2455,synonym,"Huemer 2020: 43 stat. rev."
+2458,2458,synonym,"Huemer 2020: 45 stat. rev."
