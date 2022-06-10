@@ -11067,11 +11067,9 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 11082,11082,Untomia rotundata,"Walsingham, 1911",species,,Untomia,,rotundata,,8661,,ICZN,
 11083,11083,Untomia untomiella,"Busck, 1906",species,,Untomia,,untomiella,,8662,,ICZN,
 11084,11084,Vladimirea,"Povolný, 1967",genus,Vladimirea,,,,,8663,,ICZN,
-11085,11085,Vladimirea (Distinxia),"Povolný, 1967",subgenus,,Vladimirea,Distinxia,,,8664,,ICZN,
 11086,11086,Distinixia,"Povolný, 1967",genus,Distinixia,,,,,8665,,ICZN,
-11087,11084,Vladimirea (Distinxia),"Povolný, 1967",subgenus,,Vladimirea,Distinxia,,,,,ICZN,
+11087,11084,Vladimirea (Distinxia),"Povolný, 1967",subgenus,,Vladimirea,Distinxia,,,8864,,ICZN,
 11088,11088,Vladimirea (Distinxia) amseli,"Povolný, 1967",species,,Vladimirea,Distinxia,amseli,,8666,,ICZN,
-11089,11089,Vladimirea (Vladimirea),"Povolný, 1967",subgenus,,Vladimirea,Vladimirea,,,8667,,ICZN,Nominate subgenus.
 11090,11090,Vladimirea brunnealis,"Povolný, 1969",species,,Vladimirea,,brunnealis,,8668,,ICZN,
 11091,11092,Vladimirea glebicolorella,"(Erschoff, 1874)",species,,Vladimirea,,glebicolorella,,,,ICZN,
 11092,11092,Bryotropha glebicolorella,"Erschoff, 1874",species,,Bryotropha,,glebicolorella,,8669,,ICZN,
