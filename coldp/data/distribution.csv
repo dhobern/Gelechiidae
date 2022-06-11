@@ -5980,14 +5980,14 @@ taxonId,area,gazetteer,status,referenceID,remarks
 11289,,,,,"Palearctic: China (Gansu, Ningxia, Shaanxi)."
 11290,,,,,"Palearctic: China (Henan, Shanxi)."
 11291,,,,,"Palearctic: China (Heilongjiang, Ningxia)."
-11292,,,,,"Palearctic: China (Ningxia)."
+11292,,,,,Palearctic: China (Ningxia).
 11293,,,,,"Palearctic: China (Hebei, Ningxia, Shanxi)."
-11294,,,,,"Palearctic: China (Ningxia)."
-11295,,,,,"Palearctic: China (Ningxia)."
+11294,,,,,Palearctic: China (Ningxia).
+11295,,,,,Palearctic: China (Ningxia).
 11296,,,,,"Palearctic: China (Inner Mongolia, Ningxia)."
-11297,,,,,"Palearctic: China (Shanxi)."
+11297,,,,,Palearctic: China (Shanxi).
 11298,,,,,"Palearctic: Japan (Kyushu, Ryukyus)."
-11299,,,,,"Palearctic: Japan (Ryukyus)."
+11299,,,,,Palearctic: Japan (Ryukyus).
 11314,,,,,Oriental: Laos.
 11315,,,,,Nearctic: USA (Florida).
 11316,,,,,"Palearctic: Russia (Altai Republic, Buryatia)."
@@ -6031,39 +6031,39 @@ taxonId,area,gazetteer,status,referenceID,remarks
 11366,,,,,Palearctic: Russia (Altai).
 11367,,,,,"Palearctic: Russia (Zabaikalskiy kray, Altai)."
 11396,,,,,"Palearctic: hina (Fujian, Guangxi, Guizhou, Hainan, Zhejiang)."
-11397,,,,,"Palearctic: China (Sichuan)."
+11397,,,,,Palearctic: China (Sichuan).
 11398,,,,,"Palearctic: China (Hainan, Hong Kong)."
-11399,,,,,"Palearctic: China (Hainan).
-11400,,,,,"Palearctic: China (Hainan)."
+""11399",,,,,Palearctic: China (Hainan).
+11400,,,,,Palearctic: China (Hainan).
 11401,,,,,"Palearctic: China (Guangxi, Hainan, Jiangxi, Zhejiang)."
-11402,,,,,"Palearctic: China (Hainan)."
-11403,,,,,"Palearctic: China (Hainan)."
+11402,,,,,Palearctic: China (Hainan).
+11403,,,,,Palearctic: China (Hainan).
 11404,,,,,"Palearctic: China (Xizang, Yunnan)."
-11405,,,,,"Palearctic: China (Guizhou)."
-11406,,,,,"Palearctic: China (Guangxi)."
-11407,,,,,"Palearctic: China (Hainan)."
+11405,,,,,Palearctic: China (Guizhou).
+11406,,,,,Palearctic: China (Guangxi).
+11407,,,,,Palearctic: China (Hainan).
 11408,,,,,"Palearctic: China (Fujian, Guangxi)."
-11409,,,,,"Palearctic: China (Hainan).
-11410,,,,,"Palearctic: China (Xizang)."
-11412,,,,,"Afrotropical: South Africa."
+""11409",,,,,Palearctic: China (Hainan).
+11410,,,,,Palearctic: China (Xizang).
+11412,,,,,Afrotropical: South Africa.
 11413,,,,,"Afrotropical: Namibia, South Africa."
-11414,,,,,"Afrotropical: Kenya."
+11414,,,,,Afrotropical: Kenya.
 11415,,,,,"Afrotropical: Namibia, South Africa."
-11416,,,,,"Afrotropical: South Africa."
-11417,,,,,"Afrotropical: Namibia."
+11416,,,,,Afrotropical: South Africa.
+11417,,,,,Afrotropical: Namibia.
 11418,,,,,"Afrotropical: Namibia, South Africa."
-11419,,,,,"Afrotropical: South Africa."
-11420,,,,,"Afrotropical: Kenya."
-11421,,,,,"Afrotropical: South Africa."
-11422,,,,,"Afrotropical: Namibia."
-11423,,,,,"Afrotropical: South Africa."
-11424,,,,,"Afrotropical: Kenya."
+11419,,,,,Afrotropical: South Africa.
+11420,,,,,Afrotropical: Kenya.
+11421,,,,,Afrotropical: South Africa.
+11422,,,,,Afrotropical: Namibia.
+11423,,,,,Afrotropical: South Africa.
+11424,,,,,Afrotropical: Kenya.
 11425,,,,,"Afrotropical: Kenya, Malawi."
-11426,,,,,"Afrotropical: South Africa."
-11427,,,,,"Afrotropical: South Africa."
-11428,,,,,"Afrotropical: Namibia."
-11429,,,,,"Afrotropical: Namibia."
-11430,,,,,"Afrotropical: Ethiopia."
+11426,,,,,Afrotropical: South Africa.
+11427,,,,,Afrotropical: South Africa.
+11428,,,,,Afrotropical: Namibia.
+11429,,,,,Afrotropical: Namibia.
+11430,,,,,Afrotropical: Ethiopia.
 11431,,,,,"Afrotropical: Ethiopia, Kenya."
 11432,,,,,Palearctic: Japan.
 11433,,,,,Oriental: Vietnam (North).
@@ -6104,11 +6104,11 @@ taxonId,area,gazetteer,status,referenceID,remarks
 11476,,,,,Neotropical: Chile.
 11477,,,,,"Palearctic: Russia (Altai, Southern Ural, probably Khakassia)."
 11478,,,,,"Palearctic: Russia (Altai), Mongolia."
-11480,,,,,"Neotropical: Chile."
-11481,,,,,"Neotropical: Chile."
-11482,,,,,"Palearctic: Turkey."
-11484,,,,,"Oriental: Laos."
-11485,,,,,"Oriental: Laos."
+11480,,,,,Neotropical: Chile.
+11481,,,,,Neotropical: Chile.
+11482,,,,,Palearctic: Turkey.
+11484,,,,,Oriental: Laos.
+11485,,,,,Oriental: Laos.
 11488,,,,,Palearctic: Portugal.
 11491,,,,,"Palearctic: Italy, Slovenia, Bulgaria, Greece."
 11492,,,,,"Palearctic: Italy, France."
