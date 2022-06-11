@@ -6504,7 +6504,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 6514,6514,Chelaria lecticata,"Meyrick, 1926",species,,Chelaria,,lecticata,,4990,,,ICZN,,,
 6515,6516,Hypatima mancipata,"(Meyrick, 1913)",species,,Hypatima,,mancipata,,,,,ICZN,,,
 6516,6516,Chelaria mancipata,"Meyrick, 1913",species,,Chelaria,,mancipata,,4991,,,ICZN,,,
-6517,6517,Hypatima mangiferae,"Sattler, 1989",species,,Hypatima,,mangiferae,,4992,,,ICZN,,,
+6517,6517,Hypatima mangiferae,"Sattler, 1989",species,,Hypatima,,mangiferae,,4992,412,1989,ICZN,established,,
 6518,6518,Hypatima manjakatompo,"Viette, [1957]",species,,Hypatima,,manjakatompo,,4993,,,ICZN,,,
 6519,6520,Hypatima melanecta,"(Meyrick, 1914)",species,,Hypatima,,melanecta,,,,,ICZN,,,
 6520,6520,Chelaria melanecta,"Meyrick, 1914",species,,Chelaria,,melanecta,,4994,,,ICZN,,,
@@ -11300,11 +11300,11 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 11317,11317,Sitotrogoides,"Sohn, Ponomarenko & Sakamaki, 2019",genus,Sitotrogoides,,,,,8827,,,ICZN,,"Sohn, Ponomarenko & Sakamaki 2019: 126 gen. nov.",
 11318,11009,Sitotrogoides acanthopis,"(Meyrick, 1932)",species,,Sitotrogoides,,acanthopis,,8827,,,ICZN,,"Sohn, Ponomarenko & Sakamaki 2019: 128 comb. nov.",
 11319,11319,Percnarcha claudiadoblesae,"Metz, 2020",species,,Percnarcha,,claudiadoblesae,,8828,,,ICZN,,"Metz, Hallwachs & Janzen 2020: 59 sp. nov.",
-11320,11321,Dichomeris paulianella,"(Viette, 1955)",species,,Dichomeris,,paulianella,,8829,,,ICZN,,""Park, Koo, & Minet 2020: 173 comb. nov." ",
+11320,11321,Dichomeris paulianella,"(Viette, 1955)",species,,Dichomeris,,paulianella,,8829,,,ICZN,,"Park, Koo, & Minet 2020: 173 comb. nov."
 11321,11321,Lecithocera paulianella,"Viette, 1955",species,,Lecithocera,,paulianella,,8830,,,ICZN,,Viette 1955: 20 sp. nov.,
-11322,11323,Dichomeris tananaella,"(Viette, 1985)",species,,Dichomeris,,tananaella,,8829,,,ICZN,,""Park, Koo, & Minet 2020: 175 comb. nov." ",
+11322,11323,Dichomeris tananaella,"(Viette, 1985)",species,,Dichomeris,,tananaella,,8829,,,ICZN,,"Park, Koo, & Minet 2020: 175 comb. nov."
 11323,11323,Idiopteryx tananaella,"Viette, 1985",species,,Idiopteryx,,tananaella,,8831,,,ICZN,,Viette 1985: 21 sp. nov.,
-11324,11324,Dichomeris pauliani,"De Prins & Koo, 2020",species,,Dichomeris,,pauliani,,8832,,,ICZN,,""De Prins & Koo 2020: 447 nom. nov." ",
+11324,11324,Dichomeris pauliani,"De Prins & Koo, 2020",species,,Dichomeris,,pauliani,,8832,,,ICZN,,De Prins & Koo 2020: 447 nom. nov.,
 11325,11325,Scrobipalpula onorei,"Bidzilya & Corro Chang, 2022",species,,Scrobipalpula,,onorei,,8833,,,ICZN,,Bidzilya & Corro Chang 2022: 389 sp. nov.,
 11326,11326,Sattleria enrosadira,"Timossi & Huemer, 2022",species,,Sattleria,,enrosadira,,8834,,,ICZN,,Timmossi & Huemer 2022: 437 sp. nov.,
 11327,11327,Tawaya,"Ponomarenko, M. Omelko & N. Omelko, 2021",genus,Tawaya,,,,,8835,,,ICZN,,"Pomomarenko, M. Omelko & N. Omelko, 2021: 469 gen. nov.",
