@@ -4,3 +4,4 @@ LiteratureToProcess/
 *.xlsx
 reference-cleaning.bak
 reference-cleaning.csv
+process.py
