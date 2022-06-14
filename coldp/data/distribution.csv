@@ -1548,11 +1548,21 @@ taxonId,area,gazetteer,status,referenceID,remarks
 2522,,,,,Palaearctic.
 2523,,,,,Palaearctic: North Africa (Morocco).
 2525,,,,,"Palaearctic: Europe (Czech Republic, Slovakia, Austria, Hungary, Italy, Russia), Kazakhstan."
-2531,,,,,"Palaearctic: Europe (Spain, France)."
-2533,,,,,"Palaearctic: Europe (S Russia), Kazakhstan, South Korea, China (Jilin), Japan."
-2536,,,,,Palaearctic: Europe (Russia: S Ural).
-2537,,,,,"Palaearctic: Europe (Spain, Slovakia, Croatia, Romania, Ukraine), Turkey."
-2539,RU,iso,native,,Russian Far East
+2531,ES,iso,native,,
+2531,FR,iso,native,,
+2533,RU,iso,native,,South Russia
+2533,KZ,iso,native,,
+2533,KR,iso,native,,
+2533,CN,iso,native,,Jilin
+2533,JP,iso,native,,
+2536,RU,iso,native,,South Ural
+2537,RU,iso,native,,Russian Far East
+2537,ES,iso,native,,
+2537,SK,iso,native,,
+2537,HR,iso,native,,
+2537,RO,iso,native,,
+2537,UA,iso,native,,
+2537,TR,iso,native,,
 2541,,,,,Palaearctic.
 2545,,,,,Palaearctic: North Africa (Algeria).
 2546,,,,,Afrotropical.
