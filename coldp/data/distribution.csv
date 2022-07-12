@@ -4746,7 +4746,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 7415,AF,iso,native,,
 7415,TJ,iso,native,,
 7419,NA,iso,native,,
-7420,,,,,"Palaearctic: Europe (Portugal, Spain, France, Italy, Corsica, Sardinia, Sicily, Crete)."
+11509,,,,,"Palaearctic: Europe (Portugal, Spain, France, Italy, Corsica, Sardinia, Sicily, Crete)."
 7424,,,,,"Palaearctic: Europe (Portugal, Spain, Malta, Crete), Canary Islands, North Africa (Algeria, Tunisia), Palestine, Iran."
 7427,,,,,"Palaearctic: North Africa (Algeria, Tunisia, Libya), Israel, Palestine, Iran."
 7429,,,,,"Palaearctic: Middle East (Israel, Iraq, Saudi Arabia, Iran), Afghanistan, Uzbekistan."
@@ -4758,7 +4758,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 7435,,,,,Palaearctic: Middle East (Israel).
 7436,,,,,Palaearctic: Europe (France).
 7437,,,,,Palaearctic: North Africa (Algeria).
-7438,ZA,iso,native,,Limpopo
+11514,ZA,iso,native,,Limpopo
 7439,,,,,"Palaearctic: Europe (Portugal, Spain, France)."
 7440,RU,iso,native,,Russian Far East
 7440,KR,iso,native,,
@@ -7279,3 +7279,12 @@ taxonId,area,gazetteer,status,referenceID,remarks
 11499,MN,iso,native,,
 11500,FR,iso,native,8880,
 11500,ES,iso,native,8880,
+11501,FR,ISO,mative,8881,
+11502,FR,iso,native,8882,
+11503,ES,iso,native,8883,
+11505,FR,iso,native,8885,
+11507,ES,iso,native,8887,
+11510,FR,iso,native,8888,Corsica
+11512,ES,iso,native,8889,
+11513,ES,iso,native,8889,
+11514,ES,iso,native,8890,

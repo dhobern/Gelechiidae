@@ -5457,7 +5457,7 @@ ID,author,title,issued,containerTitle,volume,issue,page,link,citation
 5463,,,,,,,,,"in Junnilainen & Nupponen, Zootaxa 2366: 16, figs 23, 29."
 5464,,,,,,,,,"ZooKeys 800: 179, figs 144, 259, 260."
 5465,,,,,,,,,"Megacraspedus imparellus (? var.) majorella Caradja, 1920, Dt. ent. Z. Iris 34: 117."
-5466,,,,,,,,,Revue de l'Association Roussillonnaise d'Entomologie - 2021 - Tome XXX(1): 65-73.
+5466,"Labonne, G., Huemer, P., Varenne, T. & Nel, J.","Megacraspedus microsacculella sp. nov. du Sud de la France, un nouveau cas d’espèces confondues",2021,Revue de l’Association Roussillonnaise d’Entomologie,30,1,65-73,,
 5467,,,,,,,,,Bull. Soc. ent. Fr. 37(12): 185-187
 5468,,,,,,,,,Annln naturhist. Mus. Wien 20: 213.
 5469,,,,,,,,,"ZooKeys 800: 167, figs 133, 251."
@@ -8837,7 +8837,7 @@ ID,author,title,issued,containerTitle,volume,issue,page,link,citation
 8847,"Huemer, P. & Van Nieukerken, E.J.",Identity of some recently described Lepidoptera from France—re-assessed with DNA barcodes and morphology,2021,Zootaxa,4941,3,301-337,https://doi.org/10.11646/zootaxa.4941.3.1,
 8848,"Bidzilya, O. & Karsholt, O.","A review of the Palearctic Ptycerata Ely, 1910 (= Caulastrocecis Chrétien, 1931, syn. nov.) based on morphology (Lepidoptera, Gelechiidae)",2021,Zootaxa,5026,2,151-181,https://doi.org/10.11646/zootaxa.5026.2.1,
 8849,"Lee, G.-E., Han, T., Park, H., Qi, M. & Li H.",A phylogeny of the subfamily Thiotrichinae (Lepidoptera: Gelechiidae) with a revision of the generic classification based on molecular and morphological analyses,2021,Systematic Entomology,46,,357-379,https://doi.org/10.1111/syen.12466,
-8850,"Lee, G.E. & Li, H.,"Taxonomic study of the genus Tenupalpa Lee et Li, 2021 (Lepidoptera: Gelechiidae: Thiotrichinae) from China, with descriptions of fifteen new species",2022,Zootaxa,5087,1,75-111,https://doi.org/10.11646/zootaxa.5087.1.4,
+8850,"Lee, G.E. & Li, H.","Taxonomic study of the genus Tenupalpa Lee et Li, 2021 (Lepidoptera: Gelechiidae: Thiotrichinae) from China, with descriptions of fifteen new species",2022,Zootaxa,5087,1,75-111,https://doi.org/10.11646/zootaxa.5087.1.4,
 8851,"Bidzilya, O.","A review of the genus Scrobipalpa Janse, 1951 (Lepidoptera, Gelechiidae) in the Afrotropical region",2021,Zootaxa,5070,1,1-83,https://doi.org/10.11646/zootaxa.5070.1.1,
 8852,"Ueda, T.","A new species of the genus Tituacia from Japan (Lepidoptera, Gelechiidae, Anacampsinae, Chelariini)",2022,Lepidoptera Science,73,1,19-25,https://doi.org/10.18984/lepid.73.1_19,
 8853,"Park, K.-T., Lee, S. & Bae, Y.-S.","Three new Empalactis species and one new Bagdadia species (Lepidoptera, Gelechiidae) from Vietnam",2019,Journal of Asia-Pacific Biodiversity,12,2019,583-591,https://doi.org/10.1016/j.japb.2019.06.003,
@@ -8868,3 +8868,13 @@ ID,author,title,issued,containerTitle,volume,issue,page,link,citation
 8878,"Zeller, P.C.",Versuch einer naturgemässen Eintheilung der Schaben,1839,Isis von Oken,1839,,167-220,https://www.biodiversitylibrary.org/page/13244120,
 8879,"Vives Moreno, A.",Catálogo sistemático y sinonímico de los Lepidópteros de la Peninsula Ibérica y Baleares (Insecta: Lepidoptera),1992,,,,,,
 8880,"Huemer, P.","Metzneria neli Huemer, sp. n., a new species hitherto mixed with M. tristella Rebel, 1901 (Lepidoptera: Gelechiidae)",2021,SHILAP Revista de lepidopterología,49,196,647-655,https://www.redalyc.org/journal/455/45569721006/html/,
+8881,"Nel, J., Varenne, T. & Labonne, G.","Description de Stomopteryx spathulella sp. n., espèce cryptique de S. remissella (Zeller, 1847), découverte dans le Sud de la France (Lepidoptera, Gelechiidae, Anacampsinae)",2019,Revue de l’Association Roussillonnaise d’Entomologie,28,4,214-218,,
+8882,"Varenne, T. & Nel, J.","Descriptions d’Elachista laurikailai sp. n. et de Stomopteryx pyrenaella sp. n. (Lepidoptera, Elachistidae Elachistinae, Gelechiidae Anacampsinae)",2020,Revue de l’Association Roussillonnaise d’Entomologie,29,3,208-214,,
+8883,"Gastón, J. & Vives Moreno, A.",Contribución al conocimiento de los Lepidoptera de España con la descripción de cuatro nuevas especies para nuestra fauna y otras citas de interés (Insecta: Lepidoptera),2020,SHILAP Revista de lepidopterología,48,190,307-324,https://www.redalyc.org/journal/455/45563484014/,
+8884,"Nel, J. & Varenne, T.","Aristotelia prohaskaella Rebel, 1907, bona species, stat. restaur. (Lepidoptera, Gelechiidae)",2021,Revue de l’Association Roussillonnaise d’Entomologie,30,2,129-131,,
+8885,"Nel, J. & Varenne, T.","Descriptions d’Infurcitinea alpmaritima sp. n. et d’Isophrictis odoratella sp. n. (France) (Lepidoptera, Meessiidae, Gelechiidae)",2021,Revue de l’Association Roussillonnaise d’Entomologie,30,2,148-152,,
+8886,"Vives Moreno, A. & Gastón, J.",Cinco nuevas especies para la fauna de España y otras interesantes informaciones lepidopterológicas para España y Sudán (Insecta: Lepidoptera),2020,SHILAP Revista de lepidopterología,48,192,717-731,https://www.redalyc.org/journal/455/45565782017/,
+8887,"Gastón, J. & Vives Moreno, A.","Un género y tres nuevas especies para España, con otras interesantes informaciones lepidopterológicas para la fauna española. Descripción de las hembras de Paramegacraspedus sinevi (Vives & Gastón, 2020), comb. n. y Agnoea revillai Gastón & Vives, 2020 (Insecta: Lepidoptera)",2021,SHILAP Revista de lepidopterología,49,193,149-159,https://www.redalyc.org/journal/455/45568011012/,
+8888,"Nel, J., Varenne, T. & Bassi, G.","Huemeria gen. nov. et description de Huemeria campicolella tyrrhenica ssp. nov. (Lepidoptera, Gelechiidae, Isophrictini)",2022,Revue de l’Association Roussillonnaise d’Entomologie,31,2,114-119,,
+8889,"Gastón, J., Macià, R., Ylla, J. & Bau, J.","Análisis del complejo Dichomeris rasilella (Herrich-Schäffer, 1854) y descripción de una nueva especie para España (Lepidoptera: Gelechiidae)",2022,SHILAP Revista de lepidopterología,50,198,277-288,,
+8890,"Gastón, J. & Huemer, P.","Metzneria leae Gastón & Huemer, sp. n., a new species from Spain (Lepidoptera: Gelechiidae)",2022,SHILAP Revista de lepidopterología,50,198,321-329,,

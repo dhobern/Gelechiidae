@@ -1,6 +1,4 @@
 taxonID,nameID,accordingToID,status,referenceID,remarks
-5,6,,synonym,,An incorrect subsequent spelling of Acompsia Hübner [1825].
-5,7,,synonym,,"An incorrect subsequent spelling of Acompsia Hübner, [1825]."
 5,8,,synonym,,"A junior objective synonym of Acompsia Hübner, [1825]. A junior subjective synonym of Ceratophora Heinemann, 1870 (Snellen 1882: 613), Acompsia Hübner, [1825] (Walsingham 1897b: 82)."
 5,9,,synonym,,"An incorrect subsequent spelling of Brachycrossata Heinemann, 1870."
 5,10,,synonym,,"A junior subjective synonym of Acompsia Hübner, [1825] (Ponomarenko 1997a: 1, 10, Huemer & Karsholt 2002: 113 (Acompsia subgen.)."
@@ -683,7 +681,7 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 1502,1503,,synonym,,
 1505,1506,,synonym,,
 1507,1508,,synonym,,
-1507,1509,,synonym,,"A junior subjective synonym of Lita subericinella Duponchel, [1843] (Rebel 1917c: (143) (Aristotelia))."
+,,,synonym,,"A junior subjective synonym of Lita subericinella Duponchel, [1843] (Rebel 1917c: (143) (Aristotelia))."
 1522,1523,,synonym,,
 1528,1529,,synonym,,
 1533,1534,,synonym,,
@@ -2164,7 +2162,7 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 4593,4594,,synonym,,
 4593,4595,,synonym,,"A junior subjective synonym of Anacampsis rasilella Herrich-Schäffer, 1854 ((Meyrick 1925a: 184 (Gomphocrates))."
 4593,4596,,synonym,,"A junior subjective synonym of Anacampsis rasilella Herrich-Schäffer, 1854 ( ())."
-4593,4597,,synonym,,"A junior subjective synonym of Anacampsis rasilella Herrich-Schäffer, 1854 ( ())."
+,,,synonym,,"A junior subjective synonym of Anacampsis rasilella Herrich-Schäffer, 1854 ( ())."
 4593,4598,,synonym,,
 4600,4601,,synonym,,
 4603,4604,,synonym,,"A junior subjective synonym of Dichomeris resignata Meyrick, 1929 (Bradley 1957: 97 (Dichomeris))."
@@ -3431,8 +3429,9 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 7415,7416,,synonym,,
 7415,7417,,synonym,,"A junior subjective synonym of Parasia aspretella Lederer, 1870 (Englert 1974: 386, 398 (Metzneria))."
 7415,7418,,synonym,,"An incorrect subsequent spelling of Parasia obsoleta Christoph, 1888."
-7420,7421,,synonym,,
-7420,7422,,synonym,,"A junior subjective synonym of Gelechia campicolella Mann, 1857 (Nel & Varenne 2017a: 73 (Metzneria)."
+11509,7420,,synonym,,
+11509,7421,,synonym,,
+11509,7422,,synonym,,"A junior subjective synonym of Gelechia campicolella Mann, 1857 (Nel & Varenne 2017a: 73 (Metzneria)."
 7424,7425,,synonym,,
 7424,7426,,synonym,,"A junior subjective synonym of Parasia castiliella Möschler, 1866 (Englert 1974: 386, 396 (Metzneria))."
 7427,7428,,synonym,,"A junior subjective synonym of Metzneria clitella Rebel, 1903 (Englert 1974: 386 (Metzneria))."
@@ -5156,3 +5155,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 5144,5144,,synonym,,"Bidzilya, Gastón, Karsholt, Sattler & Vives Moreno 2021: 225 comb. nov."
 6372,10189,,synonym,,"Bidzilya, Gastón, Karsholt, Sattler & Vives Moreno 2021: 210 syn. nov."
 6381,10190,,synonym,,"Bidzilya, Gastón, Karsholt, Sattler & Vives Moreno 2021: 217 syn. nov."
+11507,11508,,synonym,8887,comb. nov.
+11511,7438,,synonym,8888,comb. nov. (to confirm)
+11513,4597,,synonym,8889,comb. nov.

@@ -1085,7 +1085,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 7410,,,eats,,"Echinops philistaeus Feinbrun & Zohary, E. ritro L., E. sphaerocephalus L. (Englert 1974: 407, Sauter & Whitebread 2005: 87, Bidzilya & al. 2019b: 38). – Asteraceae.",,,,,
 7414,,,eats,,"Centaurea kasakorum Iljin, C. ruthenica Lam. (Piskunov 1979: 371). – Asteraceae.",,,,,
 7415,,,eats,,Cousinia libanotica DC. (Bidzilya & al. 2019b: 38). – Asteraceae.,,,,,
-7420,,,eats,,Centaurea melitensis L. (Corley 2015: 88). – Asteraceae.,,,,,
+11509,,,eats,,Centaurea melitensis L. (Corley 2015: 88). – Asteraceae.,,,,,
 7424,,,eats,,"Atractylis cancellata L., A. serratuloides (Cass.) DC., Carthamus lanatus L. (‘Kentrophyllum l.’), Onopordum arenarium (Desf.) Pomel (Chrétien 1917: 468, Klimesch 1984: 147). – Asteraceae.",,,,,
 7430,,,eats,,"Centaurea diffusa Lam., C. paniculata L. (Englert 1974: 400). – Asteraceae.",,,,,
 7431,,,eats,,"Carlina curetum Halácsy, Centaurea spp., inclusing C. calcitrapa L., C. hyalolepis Boiss., C. jacea L., C. procurrens Sieber ex Spreng., C. scabiosa L. (‘Colymbada s.’), Echinops philistaeus Feinbrunn & M.Zohari (Englert 1974: 403, Pallesen & Palm 1977: 16, Steuer 1984: 127, Pato?ka 1987a: 578, Elsner & al. 1999: 25, Bidzilya & al. 2019b: 38). – Asteraceae.",,,,,
@@ -1689,3 +1689,4 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 11442,,,eats,,Fusiform stem galls on the native spiny shrub Adesmia spinosissima Meyen (Fabaceae) (Vargas 2020).,,,,,
 11474,,,eats,,Baccharis salicifolia (Asteraceae) (Vargas 2019: 217).,,,,,
 11481,,,eats,,Fruits of Schinus sp. (Anacardiaceae). (Cepeda 2018: 380).,,,,,
+11505,,Achillea odorata,eats,8885,,https://www.catalogueoflife.org/data/taxon/97J3,Asterales,Asteraceae,Achillea odorata L.,<i>Achillea odorata</i> L.
