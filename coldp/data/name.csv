@@ -8392,7 +8392,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 8404,8404,Platyedra scutigera,"Holdaway, 1926",species,,Platyedra,,scutigera,,6469,,,ICZN,,,
 8405,8406,Pectinophora gossypiella,"(Saunders, 1844)",species,,Pectinophora,,gossypiella,,,,,ICZN,,,
 8406,8406,Depressaria gossypiella,"Saunders, 1844",species,,Depressaria,,gossypiella,,6470,,,ICZN,,,
-8407,8407,Gelechia umbripennis,"Walsingham, 1885",species,,Gelechia,,umbripennis,,6471,,,ICZN,,,
+8407,8407,Gelechia umbripennis,"Swinhoe, 1885",species,,Gelechia,,umbripennis,,6471,,,ICZN,,,
 8408,8408,Pelocnistis,"Meyrick, 1932",genus,Pelocnistis,,,,,6472,,,ICZN,,,
 8409,8409,Pelocnistis xylozona,"Meyrick, 1932",species,,Pelocnistis,,xylozona,,6473,,,ICZN,,,
 8410,8410,Peltasta,"Bidzilya, 2010",genus,Peltasta,,,,,6474,,,ICZN,,,
@@ -11495,3 +11495,4 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 11515,11515,Dichomeris merceae,"Gastón, Ylla, Macià & Bau, 2022",species,,Dichomeris,,merceae,,8889,282,2022,ICZN,established,,
 11516,4597,Dichomeris occidentella,"(Zerny, 1927)",species,,Dichomeris,,occidentella,,8889,279,2022,ICZN,established,,
 11517,11517,Metzneria leae,"Gastón & Huemer, 2022",species,,Metzneria,,leae,,8890,323,2022,ICZN,established,,
+11518,8407,Lecithocera umbripennis,"(Swinhoe, 1885)",species,,Lecithocera,,umbripennis,,8891,884,1885,ICZN,established,Included in Lecithoceridae in checklist of species for India,
