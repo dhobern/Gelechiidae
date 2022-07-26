@@ -4601,7 +4601,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 9953,9955,,synonym,,"A junior subjective synonym of Gelechia petasitis Pfaffenzeller, 1866 (Dohrn 1867: 210 (Gelechia))."
 9953,9956,,synonym,,"An unjustified emendation of Gelechia petasitis Pfaffenzeller, 1866."
 9953,9957,,synonym,,An unavailable infrasubspecific name.
-9958,9959,,synonym,,"A junior subjective synonym of Scrobipalpula Povolný, 1964 (Lee, Hodges & Brown 2009: 26)."
 9958,9960,,synonym,,"An incorrect subsequent spelling of Scrobipalpula Povolný, 1964."
 9958,9961,,synonym,,"An incorrect subsequent spelling of Scrobipalpula Povolný, 1964."
 9966,9967,,synonym,,
@@ -4613,18 +4612,21 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 9975,9978,,synonym,,"A junior secondary homonym and junior subjective synonym of Gelechia diffluella Frey, 1870 ()"
 9975,9979,,synonym,,"A junior subjective synonym of Gelechia diffluella Frey, 1870 (Huemer & Karsholt 1998: 59 (Scrobipalpula))."
 9975,9980,,synonym,,"An unavailable name, attributed to Klimesch, that does not meet the availability criteria of the Code (Edn 4), Article 12; it was not subsequently made nomenclaturally available."
+9981,9981,,synonym,,
 9981,9982,,synonym,,
 9983,9984,,synonym,,
 9986,9987,,synonym,,
-9989,9990,,synonym,,
-9991,9992,,synonym,,
+9989,9989,,synonym,,
+9991,9991,,synonym,,
 9995,9996,,synonym,,
+9999,9999,,synonym,,
 9999,10000,,synonym,,
 10001,10002,,synonym,,"An objective replacement name for Gelechia ochreostrigella Chambers, 1877, a junior homonym."
 10001,10003,,synonym,,"A junior primary homonym of Gelechia ochreostrigella Chambers, 1875 (Gelechiidae, Chionodes); the objective replacement name is Gnorimoschema henshawiella Busck, 1903. The syntype series is mixed (Miller & Hodges 1990: 64)."
 10004,10005,,synonym,,
 10006,10007,,synonym,,
 10010,10011,,synonym,,
+10017,10017,,synonym,,
 10017,10018,,synonym,,
 10017,10019,,synonym,,
 10020,10021,,synonym,,
@@ -4633,7 +4635,7 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 10032,10033,,synonym,,
 10034,10035,,synonym,,
 10036,10037,,synonym,,
-10038,10039,,synonym,,
+10038,10038,,synonym,,
 10040,10041,,synonym,,
 10040,10042,,synonym,,"A junior subjective synonym of Gelechia psilella Herrich-Schäffer, 1854 (Vives 1994: 111 (Scrobipalpula))."
 10040,10043,,synonym,,"A junior subjective synonym of Gelechia psilella Herrich-Schäffer, 1854 (Karsholt 1995: 148 (Scrobipalpula))."
@@ -4648,11 +4650,12 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 10057,10059,,synonym,,"An incorrect subsequent spelling of Gnorimoschema semirosea Meyrick, 1929."
 10060,10061,,synonym,,"An unavailable name, attributed to Klimesch, that does not meet the availability criteria of the Code (Edn 4), Article 12; it was not subsequently made nomenclaturally available."
 10060,10062,,synonym,,An unavailable infrasubspecific name.
-10063,10064,,synonym,,
+10063,10063,,synonym,,
+10065,10065,,synonym,,
 10065,10066,,synonym,,
 10070,10071,,synonym,,
 10072,10073,,synonym,,
-10072,10074,,synonym,,"An unavailable name that was first published in synonymy under Gelechia tussilaginis and was not subsequently made nomenclaturally available (Code (Edn 4), Article 11.6)."
+10072,10074,,synonym,,"An unavailable name that was first published in synonymy under Gelechia tussilaginis and was not subsequently made nomenclaturally available (Code (Edn 4), Ar.6)."
 10072,10075,,synonym,,"A junior subjective synonym of Gelechia tussilaginis Stainton, 1867 (Rebel 1901b: 147, reverse synonymy)"
 10072,10076,,synonym,,"A junior subjective synonym of Gelechia tussilaginis Stainton, 1867 (Huemer & Karsholt 1998: 40, 60 (Scrobipalpula))."
 10084,10085,,synonym,,"A junior homonym of Aenigma Newman, 1836 (Coleoptera), and a junior subjective synonym of Semophylax Meyrick, 1932. Syn. nov."
