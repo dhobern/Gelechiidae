@@ -10692,8 +10692,6 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 10709,10709,Gelechia terebinthinella,"Herrich-Schäffer, 1856",species,,Gelechia,,terebinthinella,,8324,,,ICZN,,,
 10710,10710,Gelechia terepinthinella,"Wocke, 1861",species,,Gelechia,,terepinthinella,,8325,,,ICZN,,,
 10711,10711,Gelechia terebinthella,"Mann, 1862",species,,Gelechia,,terebinthella,,8326,,,ICZN,,,
-10712,10712,Telephata,"Meyrick, 1916",genus,Telephata,,,,,8327,,,ICZN,,,
-10713,10713,Telephata cheramopis,"Meyrick, 1916",species,,Telephata,,cheramopis,,8328,,,ICZN,,,
 10714,10714,Telphusa,"Chambers, 1872",genus,Telphusa,,,,,8329,,,ICZN,,,
 10715,10715,Telephusa,"Beirne, 1938",genus,Telephusa,,,,,8330,,,ICZN,,,
 10716,10716,Telphusa amphichroma,"Meyrick, 1913",species,,Telphusa,,amphichroma,,8331,,,ICZN,,,
@@ -11503,3 +11501,4 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 11523,10066,Scrobipalpulopsis stirodes,"(Meyrick, 1931)",species,,Scrobipalpulopsis,,stirodes,,,,,ICZN,established,,
 11524,11524,Frumenta davidi,"McCarty, 2020",species,,Frumenta,,davidi,,8893,420,2020,ICZN,established,,
 11525,11525,Frumenta dianeae,"McCarty, 2020",species,,Frumenta,,dianeae,,8893,430,2020,ICZN,established,,
+11526,4868,Anarsia flabellifer,"(Rebel, 1896)",species,,Anarsia,,flabellifer,,8894,23,2022,ICZN,established,,

@@ -2574,8 +2574,6 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 4863,4859,4863,,,false,3716,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Dissoptila,,Dissoptila mutabilis,
 4864,4859,4864,,,false,3717,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Dissoptila,,Dissoptila prozona,
 4865,3,4865,,,false,3718,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,Distinxia,,"See VLADIMIREA (DISTINXIA) Povolný, 1967: 148."
-4866,4,4866,,,false,3719,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,,Dolerotricha,,
-4867,4866,4867,,,false,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Dolerotricha,,Dolerotricha flabellifer,
 4870,76,4870,,,false,3722,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anomologinae,,,Dorycnopa,,
 4872,4870,4872,,,false,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anomologinae,,Dorycnopa,,Dorycnopa heliochares,
 4875,4870,4875,,,false,3726,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anomologinae,,Dorycnopa,,Dorycnopa hemisarca,
@@ -5733,8 +5731,6 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 10705,10674,10705,,,false,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Teleiopsis,,Teleiopsis sophistica,"Meyrick received the holotype from Caradja, but it almost certainly originated from Höne or one of Höne’s Chinese collectors."
 10707,10674,10707,,,false,8323,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Teleiopsis,,Teleiopsis tchukotka,
 10708,10674,10708,,,false,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Teleiopsis,,Teleiopsis terebinthinella,
-10712,3,10712,,,false,8327,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,Telephata,,
-10713,10712,10713,,,false,8328,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Telephata,,Telephata cheramopis,
 10714,65,10714,,,false,8329,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,,Telphusa,,
 10716,10714,10716,,,false,8331,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Telphusa,,Telphusa amphichroma,
 10717,10714,10717,,,false,8332,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Telphusa,,Telphusa atomatma,‘Possibly allied to gallincolella … ‘
@@ -6332,3 +6328,4 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 11515,9959,11519,D. Hobern,2022-07-26,false,8892,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Scrobipalpulopsis,,Scrobipalpulopsis aguilaensis,
 11516,5566,11524,D. Hobern,2022-07-27,false,8893,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Frumenta,,Frumenta davidi,
 11517,5566,11525,D. Hobern,2022-07-27,false,8893,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Frumenta,,Frumenta dianeae,
+11518,398,11526,D. Hobern,2022-09-13,false,8894,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Anarsia,,Anarsia flabellifer,
