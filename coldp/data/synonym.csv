@@ -2274,8 +2274,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 4851,4853,,synonym,,"A junior subjective synonym of Lita cervinella Eversmann, 1844 (Tokár & Gozmány 2004: 65, 69 (Dirhinosia))."
 4855,4856,,synonym,,
 4857,4858,,synonym,,
-4867,4868,,synonym,,
-4867,4869,,synonym,,An incorrect subsequent spelling of Dolerotricha flabellifer Rebel.
 4870,4871,,synonym,,"A junior subjective synonym of Dorycnopa Lower, 1901 (Meyrick 1904: 269)."
 4872,4873,,synonym,,
 4872,4874,,synonym,,
@@ -5164,5 +5162,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 8405,11518,,synonym,,Included in Lecithoceridae in Das et al. 2022
 11518,4867,,synonym,8894,
 11518,4868,,synonym,8894,
-11518,4869,,synonym,8894,
+11518,4869,,synonym,8894,An incorrect subsequent spelling of Dolerotricha flabellifer Rebel.
 398,4866,,synonym,8894,
+10860,10819,,synonym,8837,
