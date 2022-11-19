@@ -2987,7 +2987,7 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 5626,5578,5626,,,false,4315,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gelechiini,Gelechia,,Gelechia clopica,
 5627,5578,5627,,,false,4316,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gelechiini,Gelechia,,Gelechia concordella,
 5628,5578,5628,,,false,4317,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gelechiini,Gelechia,,Gelechia cuneatella,
-5629,5578,5629,,,false,4318,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gelechiini,Gelechia,,Gelechia delodectis,
+5629,11523,11532,,,false,4318,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anomologinae,,Spinovalva,,Spinovalva delodectis,
 5630,5578,5630,,,false,4319,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gelechiini,Gelechia,,Gelechia desiliens,
 5631,5578,5631,,,false,4320,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gelechiini,Gelechia,,Gelechia diacmota,
 5632,5578,5632,,,false,4321,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gelechiini,Gelechia,,Gelechia discoanulella,
@@ -6332,3 +6332,4 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 11520,10261,11528,D. Hobern,2022-10-20,false,8895,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Stenolechia,,Stenolechia longivalva,
 11521,10261,11529,D. Hobern,2022-10-20,false,8895,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Stenolechia,,Stenolechia cuneata,
 11522,7342,11530,D. Hobern,2022-11-19,false,8896,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Apatetrinae,,Metanarsia,,Metanarsia moroccana,
+11523,76,11531,D. Hobern,2022-11-19,false,8897,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Anomologinae,Spinovalva,,
