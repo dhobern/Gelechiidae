@@ -4504,7 +4504,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 9744,9745,,synonym,,
 9744,9746,,synonym,,"An incorrect subsequent spelling of Lita phagnalella Constant, 1895."
 9747,9748,,synonym,,
-9750,9751,,synonym,,
 9752,9753,,synonym,,
 9756,9757,,synonym,,
 9756,9758,,synonym,,"A junior subjective synonym of Gelechia portosanctana Stainton, 1859. Syn. nov."
@@ -5166,3 +5165,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 398,4866,,synonym,8894,
 10860,10819,,synonym,8837,
 5629,5629,,synonym,8897,
+9890,9348,,synonym,8899,
+9523,9750,,synonym,8899,
+9523,9751,,synonym,8899,
