@@ -5964,9 +5964,9 @@ taxonId,area,gazetteer,status,referenceID,remarks
 9434,MN,iso,native,,
 9435,,,,,Palaearctic: North Africa (Algeria).
 9436,,,,,"Palaearctic: Europe (Spain, France, Greece). Middle East (Israel, Palestine)."
-9437,KZ,iso,native,,
-9437,KG,iso,native,,
-9437,CN,iso,native,,Xinjiang
+9437,KZ,iso,native,8899,
+9437,KG,iso,native,8899,
+9437,CN,iso,native,8899,
 9439,CN,iso,native,,"Ningxia, Shaanxi"
 9439,KR,iso,native,,
 9439,JP,iso,native,,
@@ -6037,7 +6037,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 9529,,,,,Palaearctic: Europe (France).
 9530,,,,,Palaearctic: North Africa (Tunisia).
 9531,KG,iso,native,,
-9531,MN,iso,native,,
+9531,MN,iso,native,8899,
 9533,UZ,iso,native,,
 9533,TM,iso,native,,
 9533,KZ,iso,native,,
@@ -6079,7 +6079,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 9575,,,,,Palaearctic: Europe (France).
 9576,ZA,iso,native,,"Northern Cape, Eastern Cape"
 9579,,,,,"Palaearctic: Europe (Ukraine, Russia), Middle East (Turkey, Syria, Israel, Palestine, Iraq, Iran), Azerbaijan, Turkmenistan, Afghanistan, China (Xinjiang)."
-9584,MN,iso,native,,
+9584,MN,iso,native,8899,
 9585,,,,,"Palaearctic: Europe (western European coasts, western Mediterranean, Greece), North Africa, Middle East (Israel, Palestine). Dubious/incorrect: Hungary, Ukraine, Canada, United States (see Huemer & Karsholt 2010a: 189, Pohl & al. 2018: 96)."
 9593,,,,,"Palaearctic: Russian Federation (Siberia), China (Hebei)."
 9595,MN,iso,native,,
@@ -6108,7 +6108,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 9634,,,,,"Palaearctic: Europe (Ukraine, Russia), Uzbekistan, Syria, Iran, Mongolia, China (Xinjiang)."
 9636,,,,,Palaearctic: North Africa (Tunisia).
 9637,,,,,"Palaearctic: Europe (Russia), Turkmenistan, Uzbekistan, Afghanistan, Asiatic Russia (Transbaikalia), Mongolia, China (Xinjiang)."
-9639,MN,iso,native,,
+9639,MN,iso,native,8899,
 9640,,,,,Palaearctic: Europe (France).
 9641,ZA,iso,native,,Western Cape
 9642,TR,iso,native,,
@@ -6117,8 +6117,8 @@ taxonId,area,gazetteer,status,referenceID,remarks
 9644,AF,iso,native,,
 9645,,,,,"Palaearctic: Europe (Macedonia,(?)Albania, Ukraine)."
 9646,UZ,iso,native,,
-9647,MN,iso,native,,
-9647,CN,iso,native,,"Inner Mongolia, Qinghai, Xinjiang). Dubious/incorrect: China (Jilin) (Ponomarenko & al. 2006: 109, figs 7, 23, see Bidzilya & Li 2010: 5"
+9647,MN,iso,native,8899,
+9647,CN,iso,native,8899,
 9648,PK,iso,native,,
 9648,UZ,iso,native,,
 9648,KZ,iso,native,,
@@ -6225,7 +6225,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 9841,,,,,"Palaearctic: Europe (Russia), Tuva Republic, Mongolia, South Korea."
 9843,,,,,Palaearctic: Europe (Spain).
 9845,,,,,"Palaearctic: Europe (British Isles, Denmark, Norway, Sweden, Finland, Baltic states, Germany, Poland, Austria, Hungary, Siberia (Irkutsk, Novosibirsk). Dubious/incorrect: Romania (Kovács & Kovács 2000: 31, see Huemer & Karsholt 2010a: 141)."
-9849,CN,iso,native,,Hebei
+9849,CN,iso,native,8899,
 9850,,,,,"Palaearctic: Europe (Portugal, Spain, British Isles, northern Germany, France, Sardinia, Cyprus), North Africa (Libya), Turkey. Dubious/incorrect: Germany (Thüringen) (Steuer 2002: 169, see Gerstberger 2003: 138)."
 9854,,,,,"Palaearctic: Europe (Spain, France, Croatia), Madeira."
 9858,,,,,"Palaearctic: Europe (Spain, Russia), North Africa (Algeria, Tunisia), Middle East (Turkey, Israel, Palestine, Iran), Kazakhstan, Turkmenistan, Uzbekistan."
@@ -6246,7 +6246,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 9883,,,,,"Palaearctic/Afrotropical: Europe (Portugal, Spain, France), Cape Verde Islands, Canary Islands, North Africa, Middle East (Israel, Palestine, Lebanon, Syria, Saudi Arabia), Pakistan, South Africa."
 9886,,,,,Palaearctic: North Africa (Tunisia).
 9888,UZ,iso,native,,
-9890,KZ,iso,native,,
+9890,KZ,iso,native,8899,
 9892,TR,iso,native,,
 9894,MN,iso,native,,
 9895,,,,,"Palaearctic: Europe (Russia), Middle East (Israel, Palestine, ?Saudi Arabia), Mongolia."
@@ -6267,7 +6267,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 9918,IR,iso,native,,
 9919,UZ,iso,native,,
 9919,MN,iso,native,,
-9781,CN,iso,native,,"Beijing, as Scrobipalpa zouhari"
+9781,CN,iso,native,8899,
 9921,,,,,Neotropical.
 9922,AR,iso,native,,
 9923,,,,,Neotropical.
@@ -7111,7 +7111,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 11287,RU,iso,native,,
 11288,IT,iso,native,,
 11289,CN,iso,native,,"Gansu, Ningxia, Shaanxi"
-11290,CN,iso,native,,"Henan, Shanxi"
+11290,CN,iso,native,8899,
 11291,CN,iso,native,,"Heilongjiang, Ningxia"
 11292,CN,iso,native,,Ningxia
 11293,CN,iso,native,,"Hebei, Ningxia, Shanxi"
@@ -7285,3 +7285,109 @@ taxonId,area,gazetteer,status,referenceID,remarks
 11516,US,iso,native,8893,Texas
 11517,US,iso,native,8893,Arizona
 11522,MA,iso,native,8896,
+9872,ES,iso,native,8899,
+9568,ES,iso,native,8899,
+9568,TR,iso,native,8899,
+9671,TR,iso,native,8899,
+9350,IR,iso,native,8899,
+9568,IR,iso,native,8899,
+9350,KZ,iso,native,8899,
+9568,KZ,iso,native,8899,
+9671,KZ,iso,native,8899,
+9531,KZ,iso,native,8899,
+9829,KZ,iso,native,8899,
+9645,KZ,iso,native,8899,
+9798,KZ,iso,native,8899,
+11538,JP,iso,native,8899,
+9918,TJ,iso,native,8899,
+9639,TJ,iso,native,8899,
+9437,TJ,iso,native,8899,
+9350,AF,iso,native,8899,
+9568,AF,iso,native,8899,
+9671,AF,iso,native,8899,
+9918,AF,iso,native,8899,
+9730,AF,iso,native,8899,
+9685,UA,iso,native,8899,
+9358,UA,iso,native,8899,
+9645,UA,iso,native,8899,
+9781,UA,iso,native,8899,
+11538,UA,iso,native,8899,
+11525,KG,iso,native,8899,
+9568,KG,iso,native,8899,
+9890,KG,iso,native,8899,
+9832,KG,iso,native,8899,
+11537,KG,iso,native,8899,
+9645,MK,iso,native,8899,
+9872,GR,iso,native,8899,
+9350,CN,iso,native,8899,
+9593,CN,iso,native,8899,
+9450,CN,iso,native,8899,
+9417,CN,iso,native,8899,
+9741,CN,iso,native,8899,
+9875,CN,iso,native,8899,
+9671,CN,iso,native,8899,
+9832,CN,iso,native,8899,
+9730,CN,iso,native,8899,
+11538,CN,iso,native,8899,
+9685,AM,iso,native,8899,
+9872,IT,iso,native,8899,
+9781,IT,iso,native,8899,
+9872,PT,iso,native,8899,
+9671,TN,iso,native,8899,
+9872,IL,iso,native,8899,
+9671,MN,iso,native,8899,
+9918,MN,iso,native,8899,
+9358,MN,iso,native,8899,
+9890,MN,iso,native,8899,
+9832,MN,iso,native,8899,
+9523,MN,iso,native,8899,
+9829,MN,iso,native,8899,
+9730,MN,iso,native,8899,
+9798,MN,iso,native,8899,
+9645,AL,iso,native,8899,Unconfirmed
+9872,FR,iso,native,8899,
+9350,RU,iso,native,8899,
+9685,RU,iso,native,8899,
+11524,RU,iso,native,8899,
+11525,RU,iso,native,8899,
+9872,RU,iso,native,8899,
+11526,RU,iso,native,8899,
+9593,RU,iso,native,8899,
+11290,RU,iso,native,8899,
+9450,RU,iso,native,8899,
+9417,RU,iso,native,8899,
+9741,RU,iso,native,8899,
+9568,RU,iso,native,8899,
+9849,RU,iso,native,8899,
+9875,RU,iso,native,8899,
+9671,RU,iso,native,8899,
+9531,RU,iso,native,8899,
+9918,RU,iso,native,8899,
+11527,RU,iso,native,8899,
+9358,RU,iso,native,8899,
+9890,RU,iso,native,8899,
+9639,RU,iso,native,8899,
+11528,RU,iso,native,8899,
+11529,RU,iso,native,8899,
+9832,RU,iso,native,8899,
+9457,RU,iso,native,8899,
+9584,RU,iso,native,8899,
+11530,RU,iso,native,8899,
+9647,RU,iso,native,8899,
+9523,RU,iso,native,8899,
+11531,RU,iso,native,8899,
+9829,RU,iso,native,8899,
+9645,RU,iso,native,8899,
+11532,RU,iso,native,8899,
+9730,RU,iso,native,8899,
+11533,RU,iso,native,8899,
+11537,RU,iso,native,8899,
+9770,RU,iso,native,8899,
+9781,RU,iso,native,8899,
+11538,RU,iso,native,8899,
+11534,RU,iso,native,8899,
+9657,RU,iso,native,8899,
+9798,RU,iso,native,8899,
+11535,RU,iso,native,8899,
+11536,RU,iso,native,8899,
+9781,AT,iso,native,8899,
