@@ -6095,7 +6095,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 9610,TM,iso,native,,
 9611,NP,iso,native,,
 9612,JP,iso,native,,
-9614,,,,,"Palaearctic: Russian Federation (Chitinskaya Oblast), China (Xinjiang)."
+9829,,,,,"Palaearctic: Russian Federation (Chitinskaya Oblast), China (Xinjiang) - as Scrobipalpa kyrana."
 9616,KZ,iso,native,,
 9618,IR,iso,native,,
 9619,CN,iso,native,,Ningxia
@@ -6187,7 +6187,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 9772,MN,iso,native,,
 9772,CN,iso,native,,Ningxia
 9773,,,,,"Palaearctic: Europe (Latvia, Russia, Ukraine), Armenia, Middle East (Turkey, Syria, Israel, Palestine, Iraq, Iran), Kazakhstan, Turkmenistan, Uzbekistan, Kyrgyzstan, Mongolia, China (Xinjiang)."
-9774,,,,,"Palaearctic: Europe (Russia), Kyrgyzstan."
+9918,,,,,"Palaearctic: Europe (Russia), Kyrgyzstan - as Scrobipalpa punctata."
 9776,MN,iso,native,,
 9777,AU,iso,native,,"New South Wales, Victoria, Western Australia"
 9781,,,,,"Palaearctic: Europe (Austria, Italy, Ukraine, Russia), Russian Federation (Siberia), China (Shaanxi), Japan."
@@ -6267,7 +6267,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 9918,IR,iso,native,,
 9919,UZ,iso,native,,
 9919,MN,iso,native,,
-9920,CN,iso,native,,Beijing
+9781,CN,iso,native,,"Beijing, as Scrobipalpa zouhari"
 9921,,,,,Neotropical.
 9922,AR,iso,native,,
 9923,,,,,Neotropical.

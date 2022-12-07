@@ -5,9 +5,9 @@ alias: Gelechiidae
 description: |
     The Catalogue of World Gelechiidae derives from a summary of the Gelechiidae list developed and maintained as a Word document by Klaus Sattler at the Natural History Museum, London. This list was converted in 2021 by Donald Hobern to form this Catalogue of Life Data Package dataset. Many species previously included as Gelechiidae within the COL Checklist from the NHM Global Lepidoptera Names Index (LepIndex) are not recognised within the family by Klaus Sattler. Most of these are now considered to belong to other families within the Gelechioidea, but 40 genera and 62 species cannot yet be assigned to any other family. These have been included as "provisionally accepted" taxa within this dataset but are likely to be moved elsewhere in the COL Checklist in future.
 
-released: 2022-10-04
+released: 2022-12-01
 
-version: 1.1.22.277 (04 Oct 2022)
+version: 1.1.22.335 (01 Dec 2022)
 
 contact:
   - given: Donald
@@ -20,7 +20,7 @@ contact:
     organisation: Species 2000
     rorid: https://ror.org/04m098c22 
     url: https://sp2000.org/
-    
+
 creator:
   - given: Donald
     family: Hobern
@@ -36,6 +36,7 @@ creator:
     family: Sattler
     city: London
     country: United Kingdom
+    orcid: https://orcid.org/0000-0002-0085-5960
     organisation: Natural History Museum
     rorid: https://ror.org/039zvsn29
     url: https://www.nhm.ac.uk/

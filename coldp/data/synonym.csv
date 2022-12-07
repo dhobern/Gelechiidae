@@ -1,6 +1,4 @@
 taxonID,nameID,accordingToID,status,referenceID,remarks
-5,8,,synonym,,"A junior objective synonym of Acompsia Hübner, [1825]. A junior subjective synonym of Ceratophora Heinemann, 1870 (Snellen 1882: 613), Acompsia Hübner, [1825] (Walsingham 1897b: 82)."
-5,9,,synonym,,"An incorrect subsequent spelling of Brachycrossata Heinemann, 1870."
 5,10,,synonym,,"A junior subjective synonym of Acompsia Hübner, [1825] (Ponomarenko 1997a: 1, 10, Huemer & Karsholt 2002: 113 (Acompsia subgen.)."
 11,12,,synonym,,
 15,16,,synonym,,
@@ -681,7 +679,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 1502,1503,,synonym,,
 1505,1506,,synonym,,
 1507,1508,,synonym,,
-,,,synonym,,"A junior subjective synonym of Lita subericinella Duponchel, [1843] (Rebel 1917c: (143) (Aristotelia))."
 1522,1523,,synonym,,
 1528,1529,,synonym,,
 1533,1534,,synonym,,
@@ -2162,7 +2159,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 4593,4594,,synonym,,
 4593,4595,,synonym,,"A junior subjective synonym of Anacampsis rasilella Herrich-Schäffer, 1854 ((Meyrick 1925a: 184 (Gomphocrates))."
 4593,4596,,synonym,,"A junior subjective synonym of Anacampsis rasilella Herrich-Schäffer, 1854 ( ())."
-,,,synonym,,"A junior subjective synonym of Anacampsis rasilella Herrich-Schäffer, 1854 ( ())."
 4593,4598,,synonym,,
 4600,4601,,synonym,,
 4603,4604,,synonym,,"A junior subjective synonym of Dichomeris resignata Meyrick, 1929 (Bradley 1957: 97 (Dichomeris))."
@@ -4433,7 +4429,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 9602,9603,,synonym,,
 9607,9608,,synonym,,
 9612,9613,,synonym,,"An incorrect (of a multiple) original spelling of Scrobipalpa kurokoi Povolný, [1979]."
-9614,9615,,synonym,,
 9616,9617,,synonym,,
 9620,9621,,synonym,,
 9620,9622,,synonym,,"A junior subjective synonym of Gelechia leucocephala Lower, 1893 (Povolný [1979f]: 403 (Scrobipalpa (Scrobipalpa)))."
@@ -4475,7 +4470,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 9687,9692,,synonym,,"A junior subjective synonym of Lita obsoletella Fischer von Röslerstamm, [1841] (Povolný 1967a: 222 (Scrobipalpa(Euscrobipalpa)))."
 9687,9693,,synonym,,"A junior subjective synonym of Lita obsoletella Fischer von Röslerstamm, [1841] (Huemer & Karsholt 2010a: 86 (Scrobipalpa))"
 9694,9695,,synonym,,
-9694,9696,,synonym,,"A junior subjective synonym of Euscrobipalpa occulta Povolný, 2002 (Huemer & Karsholt 2010a: 80 (Scrobipalpa))."
 9697,9698,,synonym,,
 9697,9699,,synonym,,"A junior primary homonym and a junior subjective synonym of Gelechia ocellatella Boyd, 1858 (Durrant 1895: 84 (Lita))."
 9697,9700,,synonym,,"A junior subjective synonym of Gelechia ocellatella Boyd, 1858 (Povolný 1966a: 139 (Scrobipalpa))."
@@ -4517,13 +4511,11 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 9756,9766,,synonym,,"A junior subjective synonym of Gelechia portosanctana Stainton, 1859 (Huemer & Karsholt 2010a: 160 (Scrobipalpa))."
 9768,9769,,synonym,,
 9770,9771,,synonym,,
-9774,9775,,synonym,,
 9777,9778,,synonym,,
 9777,9779,,synonym,,"A junior subjective synonym of Gnorimoschema pyrrhanthes Meyrick, 1904 (Povolný [1979f]: 419 (Scrobipalpa (Euscrobipalpa))."
 9777,9780,,synonym,,"A junior subjective synonym of Gnorimoschema pyrrhanthes Meyrick, 1904 (Povolný [1979f]: 419 (Scrobipalpa (Euscrobipalpa))."
 9781,9782,,synonym,,
 9781,9783,,synonym,,"A junior subjective synonym of Gelechia (Lita) rebeli Preissecker, 1914 (Huemer & Karsholt 2010a: 149 (Scrobipalpa))."
-9781,9784,,synonym,,"A junior subjective synonym of Gelechia (Lita) rebeli Preissecker, 1914 (Huemer & Karsholt 2010a: 149 (Scrobipalpa))."
 9788,9789,,synonym,,
 9791,9792,,synonym,,
 9793,9794,,synonym,,"A junior subjective synonym of Scrobipalpa rjabovi Piskunov, 1990 (Povolný 2002a: 67 (Euscrobipalpa))."
@@ -5168,3 +5160,8 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 9890,9348,,synonym,8899,
 9523,9750,,synonym,8899,
 9523,9751,,synonym,8899,
+9918,9775,,synonym,8899,
+9918,9774,,synonym,8899,
+9829,9614,,synonym,8899,
+9829,9615,,synonym,8899,
+9781,9920,,synonym,8899,
