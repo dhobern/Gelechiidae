@@ -1187,7 +1187,7 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 2211,152,2211,,,false,1744,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,,Canarischema,,
 2212,2211,2212,,,false,1745,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Canarischema,,Canarischema fuerteventura,
 2213,65,2213,,,false,1746,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,,Carpatolechia,,
-2216,2213,2216,,,false,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Carpatolechia,,Carpatolechia aenigma,
+2216,8823,11549,,,false,8900,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Pseudotelphusa,,Pseudotelphusa aenigma,
 2218,2213,2218,,,false,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Carpatolechia,,Carpatolechia alburnella,
 2222,2213,2222,,,false,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Carpatolechia,,Carpatolechia bradleyi,
 2224,2213,2224,,,false,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Carpatolechia,,Carpatolechia daehania,
@@ -5962,7 +5962,6 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 11043,3,11043,,,false,8623,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia lividella,
 11044,3,11044,,,false,8624,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia longiciliella,
 11045,3,11045,,,false,8625,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia longipalpella,
-11046,3,11046,,,false,8626,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Lita luridella,
 11047,3,11047,,,false,8627,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia luticoma,
 11048,3,11048,,,false,8628,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Tachyptilia maculatella,"Sort out Deut. maculatella Lucas : 258, - Tach. m. Lucas : 256!."
 11049,3,11049,,,false,8629,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Lita manchurica,"Unplaced, not gnorimoschemine."
@@ -6343,3 +6342,4 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 11536,9341,11545,D. Hobern,2022-12-07,false,8899,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Scrobipalpa,,Scrobipalpa ochraeata,
 11537,9341,9696,D. Hobern,2022-12-07,false,8899,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Scrobipalpa,,Scrobipalpa sibirica,
 11538,9341,9784,D. Hobern,2022-12-07,false,8899,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Scrobipalpa,,Scrobipalpa japonica,
+11539,1312,11547,D. Hobern,2023-02-15,false,8900,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anomologinae,,Aristotelia,,Aristotelia bengtssoni,

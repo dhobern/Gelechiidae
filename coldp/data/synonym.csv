@@ -1,6 +1,4 @@
 taxonID,nameID,accordingToID,status,referenceID,remarks
-5,10,,synonym,,"A junior subjective synonym of Acompsia Hübner, [1825] (Ponomarenko 1997a: 1, 10, Huemer & Karsholt 2002: 113 (Acompsia subgen.)."
-11,12,,synonym,,
 15,16,,synonym,,
 15,17,,synonym,,"An unavailable name that does not meet the availability criteria of the Code (Edn 4), Article 13; it was subsequently made nomenclaturally available by Amsel, 1935."
 20,21,,synonym,,
@@ -331,7 +329,7 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 783,784,,synonym,,"An incorrect subsequent spelling of Aproaerema crotolariella Busck, 1900."
 785,786,,synonym,,
 785,787,,synonym,,An unavailable infrasubspecific name.
-785,788,,synonym,,
+,,,synonym,,
 789,790,,synonym,,
 791,792,,synonym,,
 793,794,,synonym,,
@@ -5166,3 +5164,9 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 9829,9615,,synonym,8899,
 9781,9920,,synonym,8899,
 7982,11546,,synonym,,
+898,788,,synonym,8900,syn. n.
+898,11548,,synonym,8900,syn. n.
+9350,11046,,synonym,8900,syn. n.
+,,,synonym,,
+2216,2216,,synonym,8900,
+8507,11550,,synonym,,
