@@ -4400,7 +4400,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 6918,NZ,iso,native,,
 6920,NZ,iso,native,,
 6922,NZ,iso,native,,
-6926,,,,,Palaearctic/Oriental.
+6927,,,,,Palaearctic/Oriental.
 6928,CN,iso,native,,"Gansu, Hunan"
 6929,IN,iso,native,,
 6931,RU,iso,native,,Russian Far East
@@ -4608,7 +4608,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 7198,,,,,Neotropical.
 7199,GY,iso,native,,
 7201,,,,,Australasian: Hawaiian Islands.
-7202,,,,,Australasian: Hawaiian Islands.
+7203,,,,,Australasian: Hawaiian Islands.
 7205,,,,,Australasian: Hawaiian Islands.
 7207,,,,,Australasian: Hawaiian Islands.
 7209,,,,,Australasian: Hawaiian Islands.
@@ -7391,3 +7391,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 11535,RU,iso,native,8899,
 11536,RU,iso,native,8899,
 9781,AT,iso,native,8899,
+11548,MG,iso,native,8903,
+11549,CR,iso,native,8905,
+11551,MY,iso,native,8906,Borneo
+11567,MY,iso,native,8906,Borneo

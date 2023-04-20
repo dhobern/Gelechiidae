@@ -3298,8 +3298,8 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 7190,7194,,synonym,,"An incorrect (of a multiple) original spelling of Cauloecista halfella Dumont, 1928."
 7190,7195,,synonym,,"A junior subjective synonym of Toxoceras violacellum Chrétien, 1915 (Huemer & Karsholt 2018: 25). legend to pl. 11, as Mesophlebs."
 7199,7200,,synonym,,
-7202,7203,,synonym,,
-7202,7204,,synonym,,
+7201,7202,,synonym,,
+7203,7204,,synonym,,
 7205,7206,,synonym,,
 7207,7208,,synonym,,
 7209,7210,,synonym,,
@@ -3684,7 +3684,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 7930,7931,,synonym,,"An incorrectc subsequent spelling of Nevadopalpa striata Povolný, 1998."
 7934,7935,,synonym,,"An incorrect subsequent spelling of Nothris Hübner, [1825]."
 7934,7936,,synonym,,"A junior subjective synonym of Nothris Hübner, [1825] (Ponomarenko 2009: 218)."
-7934,7937,,synonym,,"A junior subjective synonym of Nothris Hübner, [1825] (Ponomarenko 2009: 218)."
 7934,7938,,synonym,,"An incorrect subsequent spelling of Nothris Hübner, [1825]."
 7939,7940,,synonym,,
 7941,7942,,synonym,,
@@ -5167,6 +5166,14 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 898,788,,synonym,8900,syn. n.
 898,11548,,synonym,8900,syn. n.
 9350,11046,,synonym,8900,syn. n.
-,,,synonym,,
 2216,2216,,synonym,8900,
 8507,11550,,synonym,,
+715,11560,,synonym,8904,LepIndex combination
+716,11561,,synonym,8904,LepIndex combination
+11565,11463,,synonym,8906,nom. nov. 
+11550,11462,,synonym,,
+11011,11012,,synonym,,"A junior subjective synonym of Trachyntis epipona Meyrick, 1902 (Edwards 1996: 112 (‘no available genus’))."
+11014,11015,,synonym,,"A junior subjective synonym of Gelechia petraea Walsingham, 1911. Syn. nov."
+11014,11016,,synonym,,"A junior subjective synonym of Gelechia petraea Walsingham, 1911. Syn. nov."
+11013,11568,,synonym,,
+7299,11569,,synonym,,
