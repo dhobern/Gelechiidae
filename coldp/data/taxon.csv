@@ -3385,8 +3385,8 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 6365,6057,6365,,,false,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Helcystogramma,,Helcystogramma zulu,
 6368,10809,11374,D. Hobern,2022-06-06,false,8849,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Thiotrichinae,,Thiotricha,,Thiotricha doxanthes,
 6369,10809,11375,D. Hobern,2022-06-06,false,8849,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Thiotrichinae,,Thiotricha,,Thiotricha erythrogramma,
-6370,3,6370,,,true,4891,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Hierodoris,,Hierodoris insignis,No available genus
-6371,3,6371,,,true,4892,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Gymnobathra,,Gymnobathra origenes,No available genus
+6370,3,6370,,,false,4891,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Hierodoris,,Hierodoris insignis,No available genus
+6371,3,6371,,,false,4892,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Gymnobathra,,Gymnobathra origenes,No available genus
 6372,64,6372,,,false,4893,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,,Holcophora,,
 6377,6372,6377,,,false,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Holcophora,,Holcophora inderskella,
 6379,6372,6379,,,false,4899,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Holcophora,,Holcophora molitor,
@@ -3908,7 +3908,7 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 7291,7238,7291,,,false,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anacampsinae,,Mesophleps,,Mesophleps ioloncha,
 7295,7238,7295,,,false,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anacampsinae,,Mesophleps,,Mesophleps macrosemus,
 7297,7238,7297,,,false,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anacampsinae,,Mesophleps,,Mesophleps meliphanes,
-7299,3,7299,,,true,5582,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Nothris,,Nothris mesophracta,No available genus
+7299,3,7299,,,false,5582,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Nothris,,Nothris mesophracta,No available genus
 7300,7238,7300,,,false,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anacampsinae,,Mesophleps,,Mesophleps mylicotis,
 7302,7238,7302,,,false,5584,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anacampsinae,,Mesophleps,,Mesophleps nairobiensis,
 7303,7238,7303,,,false,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anacampsinae,,Mesophleps,,Mesophleps ochracella,
@@ -5925,59 +5925,59 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 11006,11004,11006,,,false,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Turcopalpa,,Turcopalpa africana,
 11008,11004,11008,,,false,8588,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Turcopalpa,,Turcopalpa glaseri,
 11009,11317,11318,D. Hobern,2022-06-05,false,8827,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Pexicopiinae,,Sitotrogoides,,Sitotrogoides acanthopis,
-11010,601,11010,,,true,8590,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Pexicopiinae,,,,Barea ectadia,No available genus
-11011,601,11011,,,true,8591,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Pexicopiinae,,,,Trachyntis epipona,No available genus
-11013,601,11013,,,true,8593,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Pexicopiinae,,,,Dichomeris hastata,No available genus
-11014,3,11014,,,true,8594,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Pexicopiinae,,,,Gelechia petraea,No available genus
-11017,3,11017,,,true,8597,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia albatella,
-11018,3,11018,,,true,8598,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Lita albicostella,"Recorded as 'L. albicostella Rbl. i.l.'. An unavailable name that was attributed to Rebel but does not meet the availability criteria of the Code (Edn 4), Article 12; it was not subsequently made nomenclaturally available. Vorbrodt & Müller-Rutz 1914: 656 (Zermatt, vii. (Brasch)). SwissLepTeam 2010: 78, 187 as Caryocolum albicostella (Rebel, 1914 i.l.)"
-11019,3,11019,,,true,8599,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Lita albiflavidella,"Not in Leraut. In LepIndex as Elachista albiflavidella Bruand, 1849."
-11020,3,11020,,,true,8600,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia angustella,
-11021,3,11021,,,true,8601,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia bergiella,
-11022,3,11022,,,true,8602,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia brunneella,
-11023,3,11023,,,true,8603,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia calcaratella,"Not in LepIndex, Gaede 1937 Meyrick 1925."
-11024,3,11024,,,true,8604,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia callicoma,
-11025,3,11025,,,true,8605,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia cannanella,
-11026,3,11026,,,true,8606,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Borkhausenia catochopis,No available genus
-11028,3,11028,,,true,8608,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia clandestella,
-11029,3,11029,,,true,8609,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia cuspidatella,
-11030,3,11030,,,true,8610,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Anacampsis decolorella,
-11032,3,11032,,,true,8612,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Copidostola dimorpha,"It was made nomenclaturally available as Copidoris dimorpha Meyrick, 1907, Proc. Linn. Soc. N.S.W. 32: 141 (Oecophoridae). Introduced by Lower as 'Copidostola dimorpha, Meyr. (MSS.)'; subsequently made nomenclaturally available as Copidoris dimorpha Meyrick, 1907, Proc. Linn. Soc. N.S.W. 32: 141. (Oecophoridae)."
-11033,3,11033,,,true,8613,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia farinosa,
-11034,3,11034,,,true,8614,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Xystophora flavicapitella,
-11035,3,11035,,,true,8615,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Lita flavigutella,See also anthyllidella. Not in Leraut.
-11036,3,11036,,,true,8616,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Phthorimaea frequens,
-11037,3,11037,,,true,8617,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia gammanella,
-11038,3,11038,,,true,8618,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Doryphora griseella,
-11039,3,11039,,,true,8619,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia heliochrysa,
-11040,3,11040,,,true,8620,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Anarsia inodes,Edwards 1996: 114 gives Ypsolophus in error.
-11041,3,11041,,,true,8621,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia invenustella,
-11042,3,11042,,,true,8622,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia junctipunctella,
-11043,3,11043,,,true,8623,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia lividella,
-11044,3,11044,,,true,8624,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia longiciliella,
-11045,3,11045,,,true,8625,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia longipalpella,
-11047,3,11047,,,true,8627,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia luticoma,
-11048,3,11048,,,true,8628,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Tachyptilia maculatella,"Sort out Deut. maculatella Lucas : 258, - Tach. m. Lucas : 256!."
-11049,3,11049,,,true,8629,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Lita manchurica,"Unplaced, not gnorimoschemine."
-11050,3,11050,,,true,8630,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia marmoratella,
-11052,3,11052,,,true,8632,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Lita melanella,
-11054,3,11054,,,true,8634,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Psoricoptera melanoptila,No available genus
-11055,3,11055,,,true,8635,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Symmoca minimella,No available genus
-11056,3,11056,,,true,8636,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Lita minimella,No available genus
-11058,3,11058,,,true,8638,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Lita moghrebanella,No available genus
-11059,3,11059,,,true,8639,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Rhinosia ochracella,No available genus
-11060,3,11060,,,true,8640,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Paltodora orthocrossa,
-11061,3,11061,,,true,8641,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia overhaldensis,
-11062,3,11062,,,true,8642,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia petrodes,
-11063,3,11063,,,true,8643,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Hemiarcha polioleuca,No available genus
-11064,3,11064,,,true,8644,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia praestantella,
-11065,3,11065,,,true,8645,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia sachalinensis,
-11066,3,11066,,,true,8646,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Scieropepla silvicola,No available genus
-11067,3,11067,,,true,8647,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Phyllocnistis spilota,No available genus
-11068,3,11068,,,true,8648,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Lita suavella,"Originally published as 'L. suavella Chrét. und var. von Biskra und Gafsa'; recorded by Gaede (1937: 288) as Phthorimaea suavella Caradja, 1920."
-11069,3,11069,,,true,8649,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia tetraspilella,"A name not recorded in Meyrick (1925), Gaede (1937) or LepIndex. Taxonomic status unknown, type material not traced in BMNH."
-11070,3,11070,,,true,8650,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Phthorimaea tobisella,
-11071,3,11071,,,true,8651,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Lita trochilella,"Taxonomic status unknown, type material not traced (Huemer & Karsholt 2010a: 313)."
+11010,601,11010,,,false,8590,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Pexicopiinae,,,,Barea ectadia,No available genus
+11011,601,11011,,,false,8591,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Pexicopiinae,,,,Trachyntis epipona,No available genus
+11013,601,11013,,,false,8593,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Pexicopiinae,,,,Dichomeris hastata,No available genus
+11014,3,11014,,,false,8594,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Pexicopiinae,,,,Gelechia petraea,No available genus
+11017,3,11017,,,false,8597,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia albatella,
+11018,3,11018,,,false,8598,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Lita albicostella,"Recorded as 'L. albicostella Rbl. i.l.'. An unavailable name that was attributed to Rebel but does not meet the availability criteria of the Code (Edn 4), Article 12; it was not subsequently made nomenclaturally available. Vorbrodt & Müller-Rutz 1914: 656 (Zermatt, vii. (Brasch)). SwissLepTeam 2010: 78, 187 as Caryocolum albicostella (Rebel, 1914 i.l.)"
+11019,3,11019,,,false,8599,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Lita albiflavidella,"Not in Leraut. In LepIndex as Elachista albiflavidella Bruand, 1849."
+11020,3,11020,,,false,8600,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia angustella,
+11021,3,11021,,,false,8601,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia bergiella,
+11022,3,11022,,,false,8602,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia brunneella,
+11023,3,11023,,,false,8603,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia calcaratella,"Not in LepIndex, Gaede 1937 Meyrick 1925."
+11024,3,11024,,,false,8604,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia callicoma,
+11025,3,11025,,,false,8605,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia cannanella,
+11026,3,11026,,,false,8606,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Borkhausenia catochopis,No available genus
+11028,3,11028,,,false,8608,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia clandestella,
+11029,3,11029,,,false,8609,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia cuspidatella,
+11030,3,11030,,,false,8610,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Anacampsis decolorella,
+11032,3,11032,,,false,8612,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Copidostola dimorpha,"It was made nomenclaturally available as Copidoris dimorpha Meyrick, 1907, Proc. Linn. Soc. N.S.W. 32: 141 (Oecophoridae). Introduced by Lower as 'Copidostola dimorpha, Meyr. (MSS.)'; subsequently made nomenclaturally available as Copidoris dimorpha Meyrick, 1907, Proc. Linn. Soc. N.S.W. 32: 141. (Oecophoridae)."
+11033,3,11033,,,false,8613,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia farinosa,
+11034,3,11034,,,false,8614,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Xystophora flavicapitella,
+11035,3,11035,,,false,8615,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Lita flavigutella,See also anthyllidella. Not in Leraut.
+11036,3,11036,,,false,8616,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Phthorimaea frequens,
+11037,3,11037,,,false,8617,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia gammanella,
+11038,3,11038,,,false,8618,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Doryphora griseella,
+11039,3,11039,,,false,8619,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia heliochrysa,
+11040,3,11040,,,false,8620,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Anarsia inodes,Edwards 1996: 114 gives Ypsolophus in error.
+11041,3,11041,,,false,8621,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia invenustella,
+11042,3,11042,,,false,8622,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia junctipunctella,
+11043,3,11043,,,false,8623,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia lividella,
+11044,3,11044,,,false,8624,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia longiciliella,
+11045,3,11045,,,false,8625,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia longipalpella,
+11047,3,11047,,,false,8627,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia luticoma,
+11048,3,11048,,,false,8628,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Tachyptilia maculatella,"Sort out Deut. maculatella Lucas : 258, - Tach. m. Lucas : 256!."
+11049,3,11049,,,false,8629,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Lita manchurica,"Unplaced, not gnorimoschemine."
+11050,3,11050,,,false,8630,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia marmoratella,
+11052,3,11052,,,false,8632,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Lita melanella,
+11054,3,11054,,,false,8634,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Psoricoptera melanoptila,No available genus
+11055,3,11055,,,false,8635,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Symmoca minimella,No available genus
+11056,3,11056,,,false,8636,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Lita minimella,No available genus
+11058,3,11058,,,false,8638,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Lita moghrebanella,No available genus
+11059,3,11059,,,false,8639,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Rhinosia ochracella,No available genus
+11060,3,11060,,,false,8640,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Paltodora orthocrossa,
+11061,3,11061,,,false,8641,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia overhaldensis,
+11062,3,11062,,,false,8642,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia petrodes,
+11063,3,11063,,,false,8643,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Hemiarcha polioleuca,No available genus
+11064,3,11064,,,false,8644,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia praestantella,
+11065,3,11065,,,false,8645,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia sachalinensis,
+11066,3,11066,,,false,8646,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Scieropepla silvicola,No available genus
+11067,3,11067,,,false,8647,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Phyllocnistis spilota,No available genus
+11068,3,11068,,,false,8648,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Lita suavella,"Originally published as 'L. suavella Chrét. und var. von Biskra und Gafsa'; recorded by Gaede (1937: 288) as Phthorimaea suavella Caradja, 1920."
+11069,3,11069,,,false,8649,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Gelechia tetraspilella,"A name not recorded in Meyrick (1925), Gaede (1937) or LepIndex. Taxonomic status unknown, type material not traced in BMNH."
+11070,3,11070,,,false,8650,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Phthorimaea tobisella,
+11071,3,11071,,,false,8651,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,,Lita trochilella,"Taxonomic status unknown, type material not traced (Huemer & Karsholt 2010a: 313)."
 11072,51,11072,,,false,8652,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anacampsinae,,,Untomia,,
 11073,11072,11073,,,false,8653,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anacampsinae,,Untomia,,Untomia acicularis,
 11074,11072,11074,,,false,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anacampsinae,,Untomia,,Untomia albistrigella,

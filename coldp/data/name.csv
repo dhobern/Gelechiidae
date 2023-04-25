@@ -11540,4 +11540,5 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 11566,11566,Semipsoricoptera,"Omelko & Omelko, 2022",genus,Semipsoricoptera,,,,,8906,663,2022,ICZN,established,,
 11567,11567,Semipsoricoptera longiaurita,"Omelko & Omelko, 2022",species,,Semipsoricoptera,,longiaurita,,8906,663,2022,ICZN,established,,
 11568,11568,Nothris hastata,"(Meyrick, 1918)",species,,Nothris,,hastata,,,,,ICZN,,No available genus,
-11569,11569,Xerometra mesophracta,"(Turner, 1919)",species,,Xerometra,,mesophracta,,,,,ICZN,,No available genus
+11569,11569,Xerometra mesophracta,"(Turner, 1919)",species,,Xerometra,,mesophracta,,,,,ICZN,,No available genus,
+11570,4889,Hypatima acris,"(Park, 1995)",species,,Hypatima,,acris,,,,,ICZN,established,,
