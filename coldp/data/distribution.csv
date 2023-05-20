@@ -7233,7 +7233,6 @@ taxonId,area,gazetteer,status,referenceID,remarks
 11458,NA,iso,native,,
 11459,IR,iso,native,,
 11460,NA,iso,native,,
-11463,LA,iso,native,,
 11464,LA,iso,native,,
 11465,LA,iso,native,,
 11466,MY,iso,native,,Sabah
@@ -7272,7 +7271,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 11499,MN,iso,native,,
 11500,FR,iso,native,8880,
 11500,ES,iso,native,8880,
-11501,FR,ISO,mative,8881,
+11501,FR,ISO,native,8881,
 11502,FR,iso,native,8882,
 11503,ES,iso,native,8883,
 11505,FR,iso,native,8885,
@@ -7395,3 +7394,13 @@ taxonId,area,gazetteer,status,referenceID,remarks
 11549,CR,iso,native,8905,
 11551,MY,iso,native,8906,Borneo
 11567,MY,iso,native,8906,Borneo
+11568,GR,iso,native,8908,South-eastern Crete
+11569,MA,iso,native,8908,
+11570,ES,iso,native,8908,
+11571,FR,iso,native,8908,Corsica
+11572,BG,iso,native,8908,
+11572,RU,iso,native,8908,
+11572,UA,iso,native,8908,
+11572,TR,iso,native,8908,
+11573,AM,iso,native,8908,
+11573,IR,iso,native,8908,North regions

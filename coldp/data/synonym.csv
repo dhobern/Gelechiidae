@@ -1,6 +1,4 @@
 taxonID,nameID,accordingToID,status,referenceID,remarks
-15,16,,synonym,,
-15,17,,synonym,,"An unavailable name that does not meet the availability criteria of the Code (Edn 4), Article 13; it was subsequently made nomenclaturally available by Amsel, 1935."
 20,21,,synonym,,
 20,22,,synonym,,"A junior subjective synonym of Phalaena cinerella Clerck, 1759 (Werneburg 1858: 162 (Tinea))."
 20,23,,synonym,,"A junior subjective synonym of Phalaena cinerella Clerck, 1759 (Treitschke 1833: 81 (Lita))."
@@ -329,7 +327,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 783,784,,synonym,,"An incorrect subsequent spelling of Aproaerema crotolariella Busck, 1900."
 785,786,,synonym,,
 785,787,,synonym,,An unavailable infrasubspecific name.
-,,,synonym,,
 789,790,,synonym,,
 791,792,,synonym,,
 793,794,,synonym,,
@@ -3159,7 +3156,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 6802,6803,,synonym,,
 6802,6804,,synonym,,An incorrect subsequent spelling of Aristotelia themerastis Turner.
 6807,6808,,synonym,,
-6807,6809,,synonym,,"A junior subjective synonym of Apodia psamathias Meyrick, 1891 (Piskunov 1990a: 309 (Ivanauskiella))."
 6807,6810,,synonym,,An incorrect subsequent spelling of Apodia psamathias Meyrick.
 6812,6813,,synonym,,
 6812,6814,,synonym,,An incorrect subsequent spelling of Anacampsis biguttella Duponchel.
@@ -5178,3 +5174,4 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 11013,11568,,synonym,,
 7299,11569,,synonym,,
 4888,11570,,synonym,,
+694,694,,synonym,8908,
