@@ -5206,7 +5206,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 8247,IN,iso,native,,
 8247,CN,iso,native,,"Hainan, Yunnan"
 8247,TW,iso,native,,
-8247,JP,iso,native,,
+8247,JP,iso,native,8912,
 8249,CN,iso,native,,"Hainan, Yunnan"
 8250,IN,iso,native,,
 8252,CN,iso,native,,"Hainan, Yunnan"
@@ -7408,3 +7408,9 @@ taxonId,area,gazetteer,status,referenceID,remarks
 11576,KR,iso,native,8909,
 11577,LA,iso,native,8910,
 11578,LA,iso,native,8910,
+11579,UA,iso,native,8911,Kherson region
+11580,UA,iso,native,8911,Kherson region
+8213,JP,iso,native,8912,
+8224,JP,iso,native,8912,
+8242,JP,iso,native,8912,
+11581,JP,iso,native,8912,

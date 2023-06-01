@@ -1682,7 +1682,7 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 3604,3613,,synonym,,"A junior subjective synonym of Dichomeris Hübner, 1818 (Hodges 1986c: 10)."
 3604,3614,,synonym,,"An objective replacement name for Rhobonda Walker, 1864, a junior homonym. A junior homonym of Carna Gistl, [1847] (Echinodermata). A junior subjective synonym of Anorthosia Clemens, 1860 (Walsingham 1911: 86), Dichomeris Hübner, 1818 (Meyrick 1925c: 174)."
 3604,3615,,synonym,,"A junior homonym of Noeza Meigen, 1800 (Diptera). A junior subjective synonym of Dichomeris Hübner, 1818 (Hodges 1986c: 11)."
-3604,3616,,synonym,,"A junior subjective synonym of Dichomeris Hübner, 1818 (Hodges 1986c: 11)."
+,,,synonym,,"A junior subjective synonym of Dichomeris Hübner, 1818 (Hodges 1986c: 11)."
 3604,3617,,synonym,,"A junior subjective synonym of Trichotaphe Clemens, 1860 (Busck [1903a]: 505), Dichomeris Hübner, 1818 (Walsingham 1911: 87, Hodges 1986c: 11)."
 3604,3618,,synonym,,"A junior homonym of Sagaritis Billberg, 1820 (Crustacea). A junior subjective synonym of Anorthosia Clemens, 1860 (Busck [1903a]: 507), Dichomeris Hübner, 1818 (Meyrick 1925c: 174)."
 3604,3619,,synonym,,"A junior subjective synonym of Trichotaphe Clemens, 1860 (Busck, [1903a]: 505); Dichomeris Hübner, 1818 (Walsingham 1911: 87, Meyrick 1925c: 192 (gen. rev.), Hodges 1986c: 11 (syn. rev.))."
@@ -1766,7 +1766,7 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 3604,3697,,synonym,,"A junior subjective synonym of Dichomeris Hübner, 1818 (Hodges 1986c: 14)."
 3604,3698,,synonym,,"A junior subjective synonym of Dichomeris Hübner, 1818 (Hodges 1986c: 14)."
 3604,3699,,synonym,,An incorrect subsequent spelling of Zalithia Meyrick.
-3604,3700,,synonym,,"A junior subjective synonym of Dichomeris Hübner, 1818 (Hodges 1986c: 14)."
+,,,synonym,,"A junior subjective synonym of Dichomeris Hübner, 1818 (Hodges 1986c: 14)."
 3604,3701,,synonym,,An incorrect subsequent spelling of Croesopola Meyrick.
 3604,3702,,synonym,,"A junior subjective synonym of Dichomeris Hübner, 1818 A junior subjective synonym of Dichomeris Hübner, 1818 (Ponomarenko 2004b: 69, 88)."
 3604,3703,,synonym,,"A junior subjective synonym of Dichomeris Hübner, 1818 (Ponomarenko 2004b: 69, 88)."
@@ -1826,7 +1826,7 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 3842,3843,,synonym,,
 3844,3845,,synonym,,
 3846,3847,,synonym,,"A junior subjective synonym of Ypsolophus marmoratus Walsingham, 1891 (Meyrick 1925c: 179 (Gaesa)); (Janse 1950: 166 (Dichomeris sp. rev.))."
-3849,3850,,synonym,,
+,,,synonym,,
 3852,3853,,synonym,,
 3855,3856,,synonym,,
 3857,3858,,synonym,,
@@ -1973,7 +1973,7 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 4187,4188,,synonym,,
 4190,4191,,synonym,,An incorrect subsequent spelling of Dichomeris imbricata Meyrick.
 4193,4194,,synonym,,
-4195,4196,,synonym,,
+,,,synonym,,
 4198,4199,,synonym,,
 4200,4201,,synonym,,
 4202,4203,,synonym,,
@@ -2000,7 +2000,7 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 4244,4246,,synonym,,"An unjustified emendation of Phalaena (Tinea) juniperella Linnaeus, 1761."
 4244,4247,,synonym,,An incorrect subsequent spelling of Phalaena (Tinea) juniperella Linnaeus.
 4248,4249,,synonym,,Misspelling of Dichomeris junisonis Matsumura
-4252,4253,,synonym,,
+,,,synonym,,
 4254,4255,,synonym,,
 4257,4258,,synonym,,
 4260,4261,,synonym,,
@@ -2040,12 +2040,12 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 4308,4311,,synonym,,"According to Bruand, 1855, Mém. Soc. Doubs (2)6: 98: Lutifrontella, Bruand, serait, suivant M. Lederer de Vienne, Limosella (us) de Schlaeger (Deflectivella, F.-B.)."
 4313,4314,,synonym,,
 4320,4321,,synonym,,
-4322,4323,,synonym,,
+,,,synonym,,
 4326,4327,,synonym,,
 4332,4333,,synonym,,
 4335,4336,,synonym,,
 4337,4338,,synonym,,
-4340,4341,,synonym,,
+,,,synonym,,
 4342,4343,,synonym,,
 4344,4345,,synonym,,
 4346,4347,,synonym,,
@@ -2141,7 +2141,7 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 4564,4565,,synonym,,
 4564,4566,,synonym,,"A junior subjective synonym of Anorthosia punctipennella Clemens, 1860 (Walsingham 1911: 86 (Anorthosia))."
 4567,4568,,synonym,,
-4569,4570,,synonym,,
+,,,synonym,,
 4569,4571,,synonym,,"An incorrect (of a multiple) original spelling of Acanthophila (Acanthophila) pusillella Ponomarenko & Omelko, 2003."
 4572,4573,,synonym,,
 4574,4575,,synonym,,
@@ -2181,8 +2181,8 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 4645,4650,,synonym,,An incorrect subsequent spelling of Ypsolophus eupatoriella Chambers.
 4651,4652,,synonym,,
 4657,4658,,synonym,,
-4659,4660,,synonym,,
-4661,4662,,synonym,,
+,,,synonym,,
+,,,synonym,,
 4664,4665,,synonym,,
 4664,4666,,synonym,,"A junior subjective synonym of Trichotaphe simpliciella Busck, 1904 (Hodges 1986c: 105 (Trichotaphe))."
 4668,4669,,synonym,,
@@ -2254,7 +2254,7 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 4816,4817,,synonym,,
 4820,4821,,synonym,,
 4822,4823,,synonym,,
-4824,4825,,synonym,,
+,,,synonym,,
 4826,4827,,synonym,,
 4831,4832,,synonym,,
 4833,4834,,synonym,,
@@ -5175,4 +5175,31 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 7299,11569,,synonym,,
 4888,11570,,synonym,,
 694,694,,synonym,8908,
-11576,11579,,synonym,,Name inferred from synonymy of Acanthophila with Dichomeris - to be reviewed
+,,,synonym,,Name inferred from synonymy of Acanthophila with Dichomeris - to be reviewed
+11582,3700,,synonym,,
+4824,4824,,synonym,,
+,,,synonym,,
+4427,4427,,synonym,8913,
+,,,synonym,,
+4263,4263,,synonym,8913,
+,,,synonym,,
+3776,3776,,synonym,8913,
+,,,synonym,,
+4426,4426,,synonym,8913,
+4195,4195,,synonym,8913,
+,,,synonym,,
+3745,3745,,synonym,8913,
+3849,3849,,synonym,8913,
+,,,synonym,,
+3854,3854,,synonym,8913,
+,,,synonym,,
+4316,4316,,synonym,8913,
+4322,4322,,synonym,8913,
+4340,4340,,synonym,8913,
+4569,4569,,synonym,8913,
+,,,synonym,,
+4586,4586,,synonym,8913,
+4659,4659,,synonym,8913,
+4661,4661,,synonym,8913,
+,,,synonym,,
+4252,4252,,synonym,,
