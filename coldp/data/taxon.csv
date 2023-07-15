@@ -3408,8 +3408,8 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 6406,76,6406,,,false,4919,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anomologinae,,,Horridovalva,,
 6410,6406,6410,,,false,4923,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anomologinae,,Horridovalva,,Horridovalva renatella,
 6412,6406,6412,,,false,4925,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anomologinae,,Horridovalva,,Horridovalva tenuiella,
-6413,3,6413,,,false,4926,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,Hyalochna,,
-6415,6413,6415,,,false,4928,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Hyalochna,,Hyalochna allevata,
+6413,3,6414,,,false,4926,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,Calliphylla,,
+6415,6413,6416,,,false,4928,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Calliphylla,,Calliphylla retusa,
 6417,4,6417,,,false,4930,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,,Hyodectis,,
 6418,6417,6418,,,false,4931,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Hyodectis,,Hyodectis crenoides,
 6419,51,6419,,,false,4932,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anacampsinae,,,Hypatima,,
@@ -6136,7 +6136,6 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 11277,3,11277,,,true,8814,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,Zizyphia,,Not listed as Gelechiidae in Sattler catalogue (2021)
 11278,11277,11278,,,true,8815,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Zizyphia,,Zizyphia cleodorella,Not listed as Gelechiidae in Sattler catalogue (2021)
 11279,11277,11279,,,true,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Zizyphia,,Zizyphia zizyphella,Not listed as Gelechiidae in Sattler catalogue (2021)
-11280,6413,11280,,,true,8816,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Hyalochna,,Hyalochna malgassella,Not listed as Gelechiidae in Sattler catalogue (2021)
 11281,2299,11281,D. Hobern,2022-06-04,false,8817,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Caryocolum,,Caryocolum herwigvanstaai,
 11282,2299,11282,D. Hobern,2022-06-04,false,8817,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Caryocolum,,Caryocolum olekarsholti,
 11283,5354,11283,D. Hobern,2022-06-04,false,8818,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Filatima,,Filatima armata,
