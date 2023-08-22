@@ -1,8 +1,4 @@
 taxonID,nameID,accordingToID,status,referenceID,remarks
-20,21,,synonym,,
-20,22,,synonym,,"A junior subjective synonym of Phalaena cinerella Clerck, 1759 (Werneburg 1858: 162 (Tinea))."
-20,23,,synonym,,"A junior subjective synonym of Phalaena cinerella Clerck, 1759 (Treitschke 1833: 81 (Lita))."
-20,24,,synonym,,"An unjustified emendation of Phalaena cinerella Clerck, 1759."
 20,25,,synonym,,"A junior subjective synonym of Phalaena cinerella Clerck, 1759 (Zeller 1839a: 198 (Gelechia (Gelechia))."
 26,27,,synonym,,"An incorrect (of a multiple) original spelling. It is used only once, in the legend to fig. 18, whilst the spelling delmastroella (derived from the collector Delmastro) is otherwise used consistently throughout the paper."
 30,31,,synonym,,
@@ -249,8 +245,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 630,631,,synonym,,
 632,633,,synonym,,
 634,635,,synonym,,
-636,637,,synonym,,"A junior homonym of Dactylota Brandt, 1835 (Echinodermata); the objective replacement name is Dactylotula Cockerell, 1888."
-636,638,,synonym,,"An objective replacement name for Dactylota Snellen, 1876, a junior homonym."
 636,639,,synonym,,"An unnecessary objective replacement name for Dactylota Snellen, 1876, a junior homonym; Dactylotula Cockerell, 1888, had already been established as an objective replacement name."
 636,640,,synonym,,"An unavailable name that does not not meet the availability criteria of the Code (Edn 4), Article 12; it was subsequently made nomenclaturally available by Walsingham, 1904 (November)."
 636,641,,synonym,,"A junior subjective synonym of Epiphthora Meyrick, 1888 (Meyrick 1911a: 229), Apatetris Staudinger, 1879 (Meyrick 1918a: 117)."
@@ -5180,3 +5174,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 4659,4659,,synonym,8913,
 4661,4661,,synonym,8913,
 4252,4252,,synonym,,
+11592,637,,synonym,8918,
+656,656,,synonym,8918,
+644,644,,synonym,8918,
