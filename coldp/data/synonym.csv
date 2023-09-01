@@ -1,5 +1,4 @@
 taxonID,nameID,accordingToID,status,referenceID,remarks
-20,25,,synonym,,"A junior subjective synonym of Phalaena cinerella Clerck, 1759 (Zeller 1839a: 198 (Gelechia (Gelechia))."
 26,27,,synonym,,"An incorrect (of a multiple) original spelling. It is used only once, in the legend to fig. 18, whilst the spelling delmastroella (derived from the collector Delmastro) is otherwise used consistently throughout the paper."
 30,31,,synonym,,
 32,33,,synonym,,
@@ -5177,3 +5176,5 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 11592,637,,synonym,8918,
 656,656,,synonym,8918,
 644,644,,synonym,8918,
+1520,11606,,synonym,8919,
+1520,1520,,synonym,8919,

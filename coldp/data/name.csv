@@ -11571,3 +11571,5 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 11603,657,Dactylotula kinkerella,"(Snellen, 1876)",species,,Dactylotula,,kinkerella,,8918,,,ICZN,established,,
 11604,645,Dactylotula altithermella,"(Walsingham, 1903)",species,,Dactylotula,,altithermella,,8918,,,ICZN,established,,
 11605,11605,Dactylotula phragmitella,"Liu & Yang, 2023",species,,Dactylotula,,phragmitella,,8918,261,2023,ICZN,established,,
+11606,11606,Bucculatrix macrognathos,"Puplesis & Diškus, 1996",species,,Bucculatrix,,macrognathos,,8920,188,1996,ICZN,established,,
+11607,11606,Aristotelia macrognathos,"(Puplesis & Diškus, 1996)",species,,Aristotelia,,macrognathos,,8919,84,2021,ICZN,established,comb. nov.,
