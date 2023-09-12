@@ -1,6 +1,4 @@
 taxonID,nameID,accordingToID,status,referenceID,remarks
-26,27,,synonym,,"An incorrect (of a multiple) original spelling. It is used only once, in the legend to fig. 18, whilst the spelling delmastroella (derived from the collector Delmastro) is otherwise used consistently throughout the paper."
-30,31,,synonym,,
 32,33,,synonym,,
 38,39,,synonym,,
 38,40,,synonym,,"A junior subjective synonym of Ypsolophus schmidtiellus Heyden, 1848 (Heyden 1865: 380 (Ypsolophus))."
@@ -5178,3 +5176,5 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 644,644,,synonym,8918,
 1520,11606,,synonym,8919,
 1520,1520,,synonym,8919,
+8339,8339,,synonym,8921,
+8333,8333,,synonym,8921,
