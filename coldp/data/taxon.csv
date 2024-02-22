@@ -6131,9 +6131,6 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 11274,11272,11274,,,true,8810,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Thrypsigenes,,Thrypsigenes furvescens,Not listed as Gelechiidae in Sattler catalogue (2021)
 11275,3,11275,,,true,8812,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,Tricyphistis,,Not listed as Gelechiidae in Sattler catalogue (2021)
 11276,11275,11276,,,true,8813,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Tricyphistis,,Tricyphistis cyanorma,Not listed as Gelechiidae in Sattler catalogue (2021)
-11277,3,11277,,,true,8814,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,Zizyphia,,Not listed as Gelechiidae in Sattler catalogue (2021)
-11278,11277,11278,,,true,8815,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Zizyphia,,Zizyphia cleodorella,Not listed as Gelechiidae in Sattler catalogue (2021)
-11279,11277,11279,,,true,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Zizyphia,,Zizyphia zizyphella,Not listed as Gelechiidae in Sattler catalogue (2021)
 11281,2299,11281,D. Hobern,2022-06-04,false,8817,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Caryocolum,,Caryocolum herwigvanstaai,
 11282,2299,11282,D. Hobern,2022-06-04,false,8817,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Caryocolum,,Caryocolum olekarsholti,
 11283,5354,11283,D. Hobern,2022-06-04,false,8818,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Filatima,,Filatima armata,
@@ -6392,3 +6389,7 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 11610,6949,11626,D. Hobern,2023-11-11,false,8923,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Klimeschiopsis,,Klimeschiopsis arnoldfransorum,
 11611,9341,11627,D. Hobern,2023-11-11,false,8924,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Scrobipalpa,,Scrobipalpa gorodkovi,
 11612,6949,11628,D. Hobern,2023-11-11,false,8924,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Klimeschiopsis,,Klimeschiopsis sinevi,
+11613,628,11629,D. Hobern,2024-02-22,false,8926,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Antoniejanse,,Antoniejanse varii,
+11614,628,11630,D. Hobern,2024-02-22,false,8926,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Antoniejanse,,Antoniejanse tenebrosa,
+11615,628,11631,D. Hobern,2024-02-22,false,8926,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Antoniejanse,,Antoniejanse minima,
+11616,628,11632,D. Hobern,2024-02-22,false,8926,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Antoniejanse,,Antoniejanse mediopunctata,
