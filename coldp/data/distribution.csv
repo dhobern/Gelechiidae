@@ -4106,6 +4106,8 @@ taxonId,area,gazetteer,status,referenceID,remarks
 6445,ID,iso,native,,Java
 6447,MY,iso,native,,Sarawak
 6449,MM,iso,native,,
+6449,TH,iso,native,,
+6449,IN,iso,native,,
 6451,,,,,Australasian: Irian Jaya.
 6452,AU,iso,native,,New South Wales
 6454,NA,iso,native,,
@@ -4162,7 +4164,6 @@ taxonId,area,gazetteer,status,referenceID,remarks
 6534,ZA,iso,native,,KwaZulu-Natal
 6535,PG,iso,native,,
 6537,VN,iso,native,,
-6539,IN,iso,native,,
 6542,ID,iso,native,,Java
 6544,AU,iso,native,,Queensland
 6546,TH,iso,native,,

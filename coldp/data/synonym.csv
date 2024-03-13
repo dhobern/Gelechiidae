@@ -1,8 +1,4 @@
 taxonID,nameID,accordingToID,status,referenceID,remarks
-32,33,,synonym,,
-38,39,,synonym,,
-38,40,,synonym,,"A junior subjective synonym of Ypsolophus schmidtiellus Heyden, 1848 (Heyden 1865: 380 (Ypsolophus))."
-38,41,,synonym,,"An unavailable name that does not meet the availability criteria of the Code (Edn 4); it was subsequently made nomenclaturally available by Herrich-Schäffer, 1854."
 38,42,,synonym,,"A junior subjective synonym of Ypsolophus schmidtiellus Heyden, 1848 (Heyden 1865: 380 (Ypsolophus))."
 38,43,,synonym,,"An incorrect subsequent spelling of Ypsolophus schmidtiellus Heyden, 1848."
 38,44,,synonym,,"An incorrect subsequent spelling of Ypsolophus schmidtiellus Heyden, 1848."
@@ -872,9 +868,7 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 1953,1954,,synonym,,
 1955,1956,,synonym,,
 1955,1957,,synonym,,
-1955,1958,,synonym,,"A junior subjective synonym of Gelechia (Brachmia) subsecivella Zeller, 1852 (Meyrick 1925c: 111 (Stomopteryx))."
 1955,1959,,synonym,,"An unjustified emendation of Gelechia simplexella Walker, 1864."
-1955,1960,,synonym,,"A junior subjective synonym of Gelechia (Brachmia) subsecivella Zeller, 1852 (Meyrick 1925c: 111 (Stomopteryx))."
 1955,1961,,synonym,,"A junior subjective synonym of Gelechia (Brachmia) subsecivella Zeller, 1852 (Meyrick, in Hudson, 1928, footnote pl. 51 (Stomopteryx))."
 1962,1963,,synonym,,
 1967,1967,,synonym,,
@@ -3009,8 +3003,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 6532,6533,,synonym,,
 6535,6536,,synonym,,
 6537,6538,,synonym,,
-6539,6540,,synonym,,
-6539,6541,,synonym,,An incorrect subsequent spelling of Chelaria obtruncata Meyrick.
 6542,6543,,synonym,,
 6544,6545,,synonym,,
 6547,6548,,synonym,,
@@ -5178,3 +5170,9 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 1520,1520,,synonym,8919,
 8339,8339,,synonym,8921,
 8333,8333,,synonym,8921,
+11617,1958,,synonym,8927,
+11617,1960,,synonym,8927,
+6449,6540,,synonym,8927,
+6449,6541,,synonym,8927,
+6449,6539,,synonym,8927,
+8037,11634,,synonym,8927,Listed as unjustified emendation of Gelechia agnathosa.

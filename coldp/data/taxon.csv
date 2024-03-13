@@ -3472,7 +3472,6 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 6534,6419,6534,,,false,5003,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anacampsinae,,Hypatima,,Hypatima nigrogrisea,
 6535,6419,6535,,,false,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anacampsinae,,Hypatima,,Hypatima nimbigera,
 6537,6419,6537,,,false,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anacampsinae,,Hypatima,,Hypatima nodifera,
-6539,6419,6539,,,false,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anacampsinae,,Hypatima,,Hypatima obtruncata,
 6542,6419,6542,,,false,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anacampsinae,,Hypatima,,Hypatima orthomochla,
 6544,6419,6544,,,false,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anacampsinae,,Hypatima,,Hypatima orthostathma,
 6546,6419,6546,,,false,5010,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anacampsinae,,Hypatima,,Hypatima ovata,
@@ -6393,3 +6392,4 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 11614,628,11630,D. Hobern,2024-02-22,false,8926,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Antoniejanse,,Antoniejanse tenebrosa,
 11615,628,11631,D. Hobern,2024-02-22,false,8926,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Antoniejanse,,Antoniejanse minima,
 11616,628,11632,D. Hobern,2024-02-22,false,8926,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Antoniejanse,,Antoniejanse mediopunctata,
+11617,707,11633,D. Hobern,2024-03-13,false,8927,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anacampsinae,,Aproaerema,,Aproaerema modicella,
