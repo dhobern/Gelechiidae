@@ -6104,8 +6104,8 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 11244,3,11244,,,true,8784,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,Onebala,,Not listed as Gelechiidae in Sattler catalogue (2021)
 11245,11244,11245,,,true,8785,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Onebala,,Onebala blandiella,Not listed as Gelechiidae in Sattler catalogue (2021)
 11246,11244,11246,,,true,,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Onebala,,Onebala thiostoma,Not listed as Gelechiidae in Sattler catalogue (2021)
-11247,3,11247,,,true,8786,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,Pavolechia,,Not listed as Gelechiidae in Sattler catalogue (2021)
-11249,11247,11249,,,true,8788,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Pavolechia,,Pavolechia chrysostoma,Not listed as Gelechiidae in Sattler catalogue (2021)
+11247,51,11247,,,false,8786,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,Pavolechia,,
+11249,11247,11249,,,false,8788,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Pavolechia,,Pavolechia chrysostoma,
 11251,3,11251,,,true,8790,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,Petalostomella,,Not listed as Gelechiidae in Sattler catalogue (2021)
 11253,11251,11253,,,true,8792,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Petalostomella,,Petalostomella lygrodes,Not listed as Gelechiidae in Sattler catalogue (2021)
 11255,3,11255,,,true,8794,false,,,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,Pharangitis,,Not listed as Gelechiidae in Sattler catalogue (2021)
@@ -6393,3 +6393,5 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 11615,628,11631,D. Hobern,2024-02-22,false,8926,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Antoniejanse,,Antoniejanse minima,
 11616,628,11632,D. Hobern,2024-02-22,false,8926,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Antoniejanse,,Antoniejanse mediopunctata,
 11617,707,11633,D. Hobern,2024-03-13,false,8927,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anacampsinae,,Aproaerema,,Aproaerema modicella,
+11618,11247,11635,D. Hobern,2024-04-11,false,8786,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Pavolechia,,Pavolechia argentea,
+11619,11247,11636,D. Hobern,2024-04-11,false,8929,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Pavolechia,,Pavolechia mimetica,
