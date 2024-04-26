@@ -1054,8 +1054,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 1650,MX,iso,native,,
 1650,CO,iso,native,,
 1653,,,,,Afrotropical.
-1655,MZ,iso,native,,
-1656,ZA,iso,native,,Limpopo
+1656,ZA,iso,native,8930,"Limpopo, Gauteng"
 1657,,,,,Afrotropical.
 1659,,,,,"Afrotropical: Namibia, South Africa (Eastern Cape, KwaZulu-Natal), Zimbabwe, ‘East Africa’."
 1661,NA,iso,native,,
@@ -4427,12 +4426,11 @@ taxonId,area,gazetteer,status,referenceID,remarks
 6959,,,,,Afrotropical.
 6960,ZA,iso,native,,KwaZulu-Natal
 6962,,,,,Afrotropical.
-6963,ZA,iso,native,,Gauteng
-6964,NA,iso,native,,
+6964,NA,iso,native,8930,
 6965,NA,iso,native,,
-6965,ZA,iso,native,,
-6965,ZW,iso,native,,
-6965,KE,iso,native,,
+6965,ZA,iso,native,8930,
+6965,ZW,iso,native,8930,
+6965,KE,iso,native,8930,
 6966,,,,,Afrotropical.
 6967,ZA,iso,native,,"Mpumalanga, Eastern Cape"
 6969,ZA,iso,native,,Gauteng
@@ -4441,7 +4439,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 6972,,,,,Oriental.
 6973,IN,iso,native,,
 6975,,,,,Afrotropical.
-6976,ZW,iso,native,,
+6976,ZW,iso,native,8930,
 6977,ZA,iso,native,,"Gauteng, North West"
 6980,,,,,Neotropical.
 6981,PE,iso,native,,
@@ -4605,7 +4603,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 7189,,,,,Palaearctic: Europe (Ukraine).
 7190,,,,,"Palaearctic: North Africa (Tunisia, Libya)."
 7196,,,,,Afrotropical.
-7197,ZW,iso,native,,
+7197,ZW,iso,native,8930,
 7198,,,,,Neotropical.
 7199,GY,iso,native,,
 7201,,,,,Australasian: Hawaiian Islands.
@@ -7465,3 +7463,12 @@ taxonId,area,gazetteer,status,referenceID,remarks
 11249,GY,iso,native,8929,
 11249,BR,iso,native,8929,
 11619,PA,iso,native,8929,
+11620,ZA,iso,native,8930,
+11621,NA,iso,native,8930,
+11621,SD,iso,native,8930,
+11621,ET,iso,native,8930,
+11622,ZW,iso,native,8930,
+1656,NA,iso,native,8930,
+6965,MZ,iso,native,8930,
+6965,ET,iso,native,8930,
+11623,NA,iso,native,8930,

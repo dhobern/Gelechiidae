@@ -1,8 +1,4 @@
 taxonID,nameID,accordingToID,status,referenceID,remarks
-38,42,,synonym,,"A junior subjective synonym of Ypsolophus schmidtiellus Heyden, 1848 (Heyden 1865: 380 (Ypsolophus))."
-38,43,,synonym,,"An incorrect subsequent spelling of Ypsolophus schmidtiellus Heyden, 1848."
-38,44,,synonym,,"An incorrect subsequent spelling of Ypsolophus schmidtiellus Heyden, 1848."
-49,50,,synonym,,
 66,67,,synonym,,"An unjustified emendation of Adrasteia Chambers, 1872."
 66,68,,synonym,,"An incorrect subsequent spelling of Adrasteia Chambers, 1872."
 69,70,,synonym,,"An incorrect subsequent spelling of Adrasteia alexandriacella Chambers, 1872."
@@ -5176,3 +5172,11 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 6449,6541,,synonym,8927,
 6449,6539,,synonym,8927,
 8037,11634,,synonym,8927,Listed as unjustified emendation of Gelechia agnathosa.
+1653,6962,,synonym,8930,Syn. nov.
+1653,7196,,synonym,8930,Syn. nov.
+7197,7197,,synonym,8930,
+6964,6964,,synonym,8930,
+6976,6976,,synonym,8930,
+1656,6963,,synonym,8930,Syn. nov.
+6965,6965,,synonym,8930,
+6965,1655,,synonym,8930,Syn. nov.
