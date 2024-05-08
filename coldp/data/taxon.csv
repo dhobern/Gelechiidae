@@ -6393,3 +6393,6 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 11621,1653,11641,D. Hobern,2024-04-24,false,8930,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Pexicopiinae,,Asapharcha,,Asapharcha lacistoides,
 11622,1653,11642,D. Hobern,2024-04-24,false,8930,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Pexicopiinae,,Asapharcha,,Asapharcha ochrocapitella,
 11623,1653,11644,D. Hobern,2024-04-24,false,8930,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Pexicopiinae,,Asapharcha,,Asapharcha unipunctella,
+11624,64,11645,D. Hobern,2024-05-08,false,8931,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Gelechiinae,Esexalata,,
+11625,11624,11646,D. Hobern,2024-05-08,false,8931,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Gelechiinae,,Esexalata beljaevi,
+11626,11624,11647,D. Hobern,2024-05-08,false,8931,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Gelechiinae,,Esexalata natalyae,
