@@ -3939,23 +3939,23 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 8603,8609,,synonym,,"An unnecessary objective replacement name for Stigmatoptera Hartig, 1936, conditionally proposed in case the latter were preoccupied. (Sattler 1973; Nye & Fletcher 1991)."
 8603,8610,,synonym,,"An incorrect subsequent spelling of Oegoconiodes Matsumura, 1931."
 8603,8611,,synonym,,"An incorrect subsequent spelling of Stigmatoptera Hartig, 1936."
-8615,8616,,synonym,,
-8618,8619,,synonym,,
+8615,8615,,synonym,,
+8618,8618,,synonym,,
 8620,8621,,synonym,,
 8622,8623,,synonym,,
 8625,8626,,synonym,,"A junior subjective synonym of Polyhymno chionarcha Meyrick, 1913 (Bidzilya & al. 2019b: 32)."
 8627,8628,,synonym,,
-8634,8635,,synonym,,
+8634,8634,,synonym,,
 8636,8637,,synonym,,
 8639,8640,,synonym,,
 8645,8646,,synonym,,
-8647,8648,,synonym,,
+8647,8647,,synonym,,
 8652,8653,,synonym,,
 8659,8660,,synonym,,"A junior subjective synonym of Polyhymno luteostrigella Chambers, 1874 (Walsingham 1897b: 77 (Polyhymno))."
 8664,8665,,synonym,,
 8664,8666,,synonym,,"A junior subjective synonym of Oegoconiodes obliquata Matsumura, 1931 (Inoue 1954: 68 (Polyhymno))."
 8664,8667,,synonym,,"An incorrect subsequent spelling of Oegoconiodes obliquata Matsumura, 1931."
-8670,8671,,synonym,,
+8670,8670,,synonym,,
 8677,8678,,synonym,,
 8681,8682,,synonym,,
 8685,8686,,synonym,,
@@ -4950,6 +4950,8 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 10925,10926,,synonym,,
 10927,10928,,synonym,,
 10929,10930,,synonym,,
+10929,8681,,synonym,8933,
+10929,8682,,synonym,8933,
 10939,10940,,synonym,,
 10944,10945,,synonym,,"A junior subjective synonym of Tituacia Walker, 1854 (Meyrick 1925c: 162)."
 10944,10946,,synonym,,"An incorrect subsequent spelling of Tituacia Walker, 1854."
