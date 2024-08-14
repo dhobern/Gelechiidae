@@ -3957,7 +3957,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 8664,8667,,synonym,,"An incorrect subsequent spelling of Oegoconiodes obliquata Matsumura, 1931."
 8670,8670,,synonym,,
 8677,8678,,synonym,,
-8681,8682,,synonym,,
 8685,8686,,synonym,,
 8695,8696,,synonym,,"A junior homonym of Lita Kollar, 1832; the objective replacement name is Prolita Leraut 1993."
 8697,8698,,synonym,,
@@ -5184,3 +5183,4 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 6965,1655,,synonym,8930,Syn. nov.
 1266,11648,,synonym,,
 1135,11649,,synonym,,
+6967,6967,,synonym,8934,
