@@ -37,8 +37,7 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 59,55,59,,,false,44,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Apatetrinae,,Acutitornus,,Acutitornus munda,
 60,55,60,,,false,45,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Apatetrinae,,Acutitornus,,Acutitornus munroi,
 61,55,61,,,false,46,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Apatetrinae,,Acutitornus,,Acutitornus persectus,
-62,3,62,,,false,47,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,Adoxotricha,,
-63,62,63,,,false,48,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Adoxotricha,,Adoxotricha symbolistis,
+63,3604,11750,,,false,8935,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Dichomeris,,Dichomeris symbolistis,
 64,3,64,,,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,Gelechiinae,,
 65,64,65,,,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,,Litini,,
 66,65,66,,,false,49,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,,Adrasteia,,
@@ -689,7 +688,7 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 1310,65,1310,,,false,1014,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,,Argyrolacia,,
 1311,1310,1311,,,false,1015,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Argyrolacia,,Argyrolacia bifida,
 1312,76,1312,,,false,1016,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anomologinae,,,Aristotelia,,"Aristotelia Hübner, 1825, was referred to the Gelechiinae from Aristoteliinae (within the Gelechiidae) by Kuznetzov & Stekolnikov, 1984, Trudy Zoologicheskogo Instituta Akademii Nauk SSSR 122,: 61. Aristotelia was treated in the Gelechiidae in Nye and Fletcher, 1991, Generic Names Moths World, 6,: 32."
-1317,1312,1317,,,false,1021,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anomologinae,,Aristotelia,,Aristotelia achyrobathra,
+1317,10307,11745,,,false,8935,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anacampsinae,,Stomopteryx,,Stomopteryx achyrobathra,
 1318,1312,1318,,,false,1022,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anomologinae,,Aristotelia,,Aristotelia adceanotha,
 1320,1312,1320,,,false,1024,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anomologinae,,Aristotelia,,Aristotelia adenostomae,
 1321,1312,1321,,,false,1025,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anomologinae,,Aristotelia,,Aristotelia amelanchierella,
@@ -770,7 +769,7 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 1425,1312,1425,,,false,1112,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anomologinae,,Aristotelia,,Aristotelia mesoxysta,Unplaced.
 1426,1312,1426,,,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anomologinae,,Aristotelia,,Aristotelia mirabilis,
 1429,1312,1429,,,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anomologinae,,Aristotelia,,Aristotelia mirandella,
-1431,1312,1431,,,false,1116,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anomologinae,,Aristotelia,,Aristotelia modulatrix,
+1431,8478,11752,,,false,8935,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Photodotis,,Photodotis modulatrix,
 1432,1312,1432,,,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anomologinae,,Aristotelia,,Aristotelia molestella,
 1435,1312,1435,,,false,1119,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anomologinae,,Aristotelia,,Aristotelia monilella,
 1436,1312,1436,,,false,1120,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Anomologinae,,Aristotelia,,Aristotelia montarcella,
@@ -945,7 +944,7 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 1741,1662,1741,,,false,1364,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Athrips,,Athrips pallida,
 1742,1662,1742,,,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Athrips,,Athrips patockai,"A junior subjective synonym of Gelechia spiraeae Staudinger, 1871 (Pastorális & Reiprich 1995: 12 (Athrips)), subsequently reinstated (Huemer & Karsholt 1999: 179 (Athrips))."
 1744,1662,1744,,,false,1366,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Athrips,,Athrips peteri,
-1745,1662,1745,,,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Athrips,,Athrips phaeomicta,
+1745,3,1746,,,true,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Epithectis,,Epithectis phaeomicta,No available genus
 1747,1662,1747,,,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Athrips,,Athrips phoenaula,
 1749,1662,1749,,,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Athrips,,Athrips polymaculella,
 1751,1662,1751,,,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Athrips,,Athrips profusa,
@@ -1086,14 +1085,13 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 2002,1969,2002,,,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Brachmia,,Brachmia infuscatella,
 2003,1969,2003,,,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Brachmia,,Brachmia inornatella,
 2005,1969,2005,,,false,1567,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Brachmia,,Brachmia insuavis,"(DEI, Müncheberg)."
-2006,1969,2006,,,false,1568,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Brachmia,,Brachmia leucopla,
-2007,1969,2007,,,false,1569,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Brachmia,,Brachmia leucospora,
+2006,6057,11747,,,false,8935,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Helcystogramma,,Helcystogramma leucopla,
 2008,1969,2008,,,false,1570,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Brachmia,,Brachmia liberta,
 2009,1969,2009,,,false,1571,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Brachmia,,Brachmia melicephala,Status ? nr cenchritis ?.
 2010,1969,2010,,,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Brachmia,,Brachmia modicella,
 2012,1969,2012,,,false,1573,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Brachmia,,Brachmia monotona,"ref. in Gaede differs (taken from reprint). Not recorded by Popescu-Gorj, 1992."
 2013,1969,2013,,,false,1574,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Brachmia,,Brachmia murinula,
-2014,1969,2014,,,false,1575,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Brachmia,,Brachmia neuroplecta,
+2014,6057,11748,,,false,8935,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Helcystogramma,,Helcystogramma neuroplecta,
 2015,1969,2015,,,false,1576,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Brachmia,,Brachmia obtrectata,
 2017,1969,2017,,,false,1578,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Brachmia,,Brachmia opaca,Status ?.
 2018,1969,2018,,,false,1579,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Brachmia,,Brachmia perumbrata,Generic status ?
@@ -2963,7 +2961,7 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 5587,5578,5587,,,false,4282,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gelechiini,Gelechia,,Gelechia adaptella,
 5588,5578,5588,,,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gelechiini,Gelechia,,Gelechia albisparsella,
 5592,5578,5592,,,false,4286,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gelechiini,Gelechia,,Gelechia albomaculata,
-5593,5578,5593,,,false,4287,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gelechiini,Gelechia,,Gelechia allomima,
+5593,6992,11751,,,false,8935,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Leuronoma,,Leuronoma allomima,
 5594,5578,5594,,,false,4288,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gelechiini,Gelechia,,Gelechia allotria,
 5596,5578,5596,,,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gelechiini,Gelechia,,Gelechia anarsiella,
 5597,5578,5597,,,false,4290,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gelechiini,Gelechia,,Gelechia anomorcta,
@@ -3032,7 +3030,6 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 5699,5578,5699,,,false,4379,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gelechiini,Gelechia,,Gelechia notabilis,
 5700,5578,5700,,,false,4380,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gelechiini,Gelechia,,Gelechia obscurella,
 5702,5578,5702,,,false,4382,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gelechiini,Gelechia,,Gelechia ocherfuscella,
-5705,5578,5705,,,false,4385,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gelechiini,Gelechia,,Gelechia ochrocorys,
 5706,5578,5706,,,false,4386,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gelechiini,Gelechia,,Gelechia packardella,
 5707,5578,5707,,,false,4387,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gelechiini,Gelechia,,Gelechia pallidagriseella,
 5708,5578,5708,,,false,4388,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gelechiini,Gelechia,,Gelechia palpialbella,
@@ -3941,8 +3938,7 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 7374,7342,7374,,,false,5641,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Apatetrinae,,Metanarsia,,Metanarsia santannae,
 7375,7342,7375,,,false,5642,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Apatetrinae,,Metanarsia,,Metanarsia scythiella,
 7376,7342,7376,,,false,5643,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Apatetrinae,,Metanarsia,,Metanarsia trisignella,
-7377,3,7377,,,false,5644,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,Metaplatyntis,,
-7378,7377,7378,,,false,5645,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Metaplatyntis,,Metaplatyntis synclepta,
+7378,6057,11749,,,false,5645,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Helcystogramma,,Helcystogramma synclepta,
 7379,4,7379,,,false,5646,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,,Metatactis,,
 7380,7379,7380,,,false,5647,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Metatactis,,Metatactis griseobrunnea,
 7381,3,7381,,,false,5648,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,Metopios,,"Metopios when established was not marked as a new generic name and was not placed in a family, Dr. P. Viette, Paris, has examined the holotype of M. tozeurellum and in a personal communication of 22.ii.1984, stated that it ""is a typical Gelechiidae""."
@@ -4339,8 +4335,6 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 8203,8202,8203,,,false,6313,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Pachygeneia,,Pachygeneia clitellaria,
 8206,8478,11450,,,false,6316,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Photodotis,,Photodotis hippica,
 8207,8478,11451,,,false,6317,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Photodotis,,Photodotis peregrina,
-8208,3,8208,,,false,6318,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,Paltoloma,,
-8209,8208,8209,,,false,6319,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Paltoloma,,Paltoloma paleata,
 8210,2196,8210,,,false,6320,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Thiotrichinae,,,Palumbina,,
 8213,8210,8213,,,false,6323,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Thiotrichinae,,Palumbina,,Palumbina acerosa,
 8214,8210,8214,,,false,6324,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Thiotrichinae,,Palumbina,,Palumbina acinacea,
@@ -4546,7 +4540,6 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 8548,8497,8548,,,false,6591,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Phthorimaea,,Phthorimaea robusta,Unplaced species.
 8549,8497,8549,,,false,6592,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Phthorimaea,,Phthorimaea spinosa,
 8551,8497,8551,,,false,6594,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Phthorimaea,,Phthorimaea totalis,
-8553,8497,8553,,,false,6596,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Phthorimaea,,Phthorimaea tristrigata,Unplaced species.
 8554,8497,8554,,,false,6597,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Phthorimaea,,Phthorimaea truncata,
 8556,64,8556,,,false,6599,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,,Phylopatris,,
 8557,8556,8557,,,false,6600,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Phylopatris,,Phylopatris terpnodes,
@@ -4676,8 +4669,7 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 8777,8776,8777,,,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Prosodarma,,Prosodarma fibularis,
 8779,3,8779,,,false,6777,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,Prostomeus,,On whose authority was Prostomeus placed in Pexicopiinae (Núñez Aguila & Bajo Cañamero 2012: 8)?.
 8781,8779,8781,,,false,6779,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Prostomeus,,Prostomeus brunneus,"Syntype ?, (slide no. 2950, Clarke) (USNM, no. 6367) (Brown & al. Cat.)."
-8782,3,8782,,,false,6780,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,,Proteodoxa,,
-8783,8782,8783,,,false,6781,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Proteodoxa,,Proteodoxa cirrhopa,
+8783,1969,11746,,,false,8935,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Dichomeridinae,,Brachmia,,Brachmia cirrhopa,
 8784,64,8784,,,false,6782,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,,Protoparachronistis,,
 8787,8784,8787,,,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Protoparachronistis,Furcatisacculus,,
 8788,8787,8788,,,false,6785,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Protoparachronistis,,Protoparachronistis (Furcatisacculus) concolor,

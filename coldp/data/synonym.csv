@@ -1,12 +1,4 @@
 taxonID,nameID,accordingToID,status,referenceID,remarks
-66,67,,synonym,,"An unjustified emendation of Adrasteia Chambers, 1872."
-66,68,,synonym,,"An incorrect subsequent spelling of Adrasteia Chambers, 1872."
-69,70,,synonym,,"An incorrect subsequent spelling of Adrasteia alexandriacella Chambers, 1872."
-69,71,,synonym,,"An unjustified emendation of Adrasteia alexandriacella Chambers, 1872."
-73,74,,synonym,,"An incorrect subsequent spelling of Adullamitis Meyrick, 1932."
-80,81,,synonym,,
-84,85,,synonym,,"A junior subjective synonym of Agnippe Chambers, 1872 (Lee & Brown 2008: 11, 48)."
-84,86,,synonym,,"A junior homonym of Phaetusa Wagler, 1832 (Aves) and a junior subjective synonym of Evippe Chambers, 1873 (Busck [1903a]: 500), Agnippe Chambers, 1872 (Lee & Brown 2008: 11, 48)."
 84,87,,synonym,,"An incorrect subsequent spelling of Agnippe Chambers, 1872."
 84,88,,synonym,,"A junior subjective synonym of Evippe Chambers, 1873 (Clarke 1955: 19), Agnippe Chambers, 1872 (Lee & Brown 2008: 11, 48}."
 89,90,,synonym,,
@@ -767,7 +759,7 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 1737,1738,,synonym,,
 1739,1740,,synonym,,
 1742,1743,,synonym,,
-1745,1746,,synonym,,
+1745,1745,,synonym,,
 1747,1748,,synonym,,
 1749,1750,,synonym,,
 1751,1752,,synonym,,
@@ -5184,3 +5176,17 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 1266,11648,,synonym,,
 1135,11649,,synonym,,
 6967,6967,,synonym,8934,
+1317,1317,,synonym,8935,
+8783,8783,,synonym,8935,
+2006,2006,,synonym,8935,
+2014,2014,,synonym,8935,
+7378,7378,,synonym,8935,
+63,63,,synonym,8935,
+5593,5593,,synonym,8935,
+1431,1431,,synonym,8935,
+1969,8782,,synonym,8935,syn. nov.
+6057,7377,,synonym,8935,syn. nov.
+3604,62,,synonym,8935,syn. nov.
+1535,5705,,synonym,8935,syn. nov.
+9506,8553,,synonym,8935,syn. nov.
+9867,2007,,synonym,8935,syn. nov.
