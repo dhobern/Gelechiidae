@@ -4516,9 +4516,9 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 8494,601,8494,,,false,6539,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Pexicopiinae,,,Phrixocrita,,
 8495,8494,8495,,,false,6540,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Pexicopiinae,,Phrixocrita,,Phrixocrita aegidopis,
 8497,152,8497,,,false,6542,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,,Phthorimaea,,
-8507,8497,8507,,,false,6552,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Phthorimaea,,Phthorimaea absoluta,
+8507,11722,11550,,,false,8900,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Gelechiini,,Tuta absoluta,
 8508,8497,8508,,,false,6553,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Phthorimaea,,Phthorimaea ascendens,
-8510,8497,8510,,,false,6555,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Phthorimaea,,Phthorimaea atriplicella,
+8510,11722,11754,,,false,8900,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Gelechiini,,Tuta atriplicella,
 8513,8497,8513,,,false,6558,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Phthorimaea,,Phthorimaea chiquitella,[Date 1909 given in Genera Insect. and Lepid. Cat. is incorrect!].
 8515,8497,8515,,,false,6560,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Phthorimaea,,Phthorimaea chiquitelloides,
 8518,8497,8518,,,false,6563,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Phthorimaea,,Phthorimaea congruens,
@@ -6482,3 +6482,4 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 11719,10091,11743,D. Hobern,2024-08-14,false,8933,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Sergeya,,Sergeya davidi,
 11720,10091,11744,D. Hobern,2024-08-14,false,8933,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,,,Sergeya,,Sergeya harambee,
 11721,9341,11753,D. Hobern,2024-10-17,false,8936,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Gnorimoschemini,Scrobipalpa,,Scrobipalpa chardonnayi,
+11722,72,8498,D. Hobern,2024-12-13,false,8900,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Gelechiini,Tuta,,

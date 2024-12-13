@@ -1,7 +1,4 @@
 taxonID,nameID,accordingToID,status,referenceID,remarks
-84,87,,synonym,,"An incorrect subsequent spelling of Agnippe Chambers, 1872."
-84,88,,synonym,,"A junior subjective synonym of Evippe Chambers, 1873 (Clarke 1955: 19), Agnippe Chambers, 1872 (Lee & Brown 2008: 11, 48}."
-89,90,,synonym,,
 91,92,,synonym,,
 93,94,,synonym,,
 93,95,,synonym,,"An incorrect subsequent spelling of Recurvaria albidorsella Snellen, 1884."
@@ -3876,7 +3873,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 8486,8487,,synonym,,
 8490,8491,,synonym,,
 8495,8496,,synonym,,"An incorrect subsequent spelling of Phrixocrita aegidopis Meyrick, 1935."
-8497,8498,,synonym,,"A junior subjective synonym of Gnorimoschema Busck, 1900 (Meyrick 1925c: 89), Phthorimaea Meyrick, 1902 (Hodges & Becker 1990: 77)."
 8497,8499,,synonym,,"A junior homonym and a junior objective synonym of Tuta Kieffer & Jörgensen, 1910."
 8497,8500,,synonym,,"An incorrect subsequent spelling of Phthorimaea Meyrick, 1902."
 8497,8501,,synonym,,"An incorrect subsequent spelling of Phthorimaea Meyrick, 1902."
@@ -5122,7 +5118,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 898,11548,,synonym,8900,syn. n.
 9350,11046,,synonym,8900,syn. n.
 2216,2216,,synonym,8900,
-8507,11550,,synonym,,
 715,11560,,synonym,8904,LepIndex combination
 716,11561,,synonym,8904,LepIndex combination
 11565,11463,,synonym,8906,nom. nov. 
@@ -5190,3 +5185,5 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 1535,5705,,synonym,8935,syn. nov.
 9506,8553,,synonym,8935,syn. nov.
 9867,2007,,synonym,8935,syn. nov.
+8507,8507,,synonym,8900,
+8510,8510,,synonym,8900,

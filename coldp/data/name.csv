@@ -8475,7 +8475,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 8495,8495,Phrixocrita aegidopis,"Meyrick, 1935",species,,Phrixocrita,,aegidopis,,6540,,,ICZN,,,
 8496,8496,Phrixocrita aegidopsis,"Park, 1995",species,,Phrixocrita,,aegidopsis,,6541,,,ICZN,,,
 8497,8497,Phthorimaea,"Meyrick, 1902",genus,Phthorimaea,,,,,6542,,,ICZN,,,
-8498,8498,Tuta,"Kieffer & Jörgensen, 1910",genus,Tuta,,,,,6543,,,ICZN,,,
+8498,8498,Tuta,"Kieffer & Jörgensen, 1910",genus,Tuta,,,,,6543,363,1910,ICZN,established,Restored from synonymy with Phthorimaea by Gregersen & Karsholt 2022: 531,
 8499,8499,Tuta,"Strand, 1911",genus,Tuta,,,,,6544,,,ICZN,,,
 8500,8500,Phtyorimaea,"Turner, 1919",genus,Phtyorimaea,,,,,6545,,,ICZN,,,
 8501,8501,Phithorimaea,"Turner, 1919",genus,Phithorimaea,,,,,6546,,,ICZN,,,
@@ -11712,3 +11712,4 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 11751,5593,Leuronoma allomima,"(Meyrick, 1938)",species,,Leuronoma,,allomima,,8935,205,2024,ICZN,established,,
 11752,1431,Photodotis modulatrix,"(Meyrick, 1938)",species,,Photodotis,,modulatrix,,8935,206,2024,ICZN,established,,
 11753,11753,Scrobipalpa chardonnayi,"Huemer & Özden, 2024",species,,Scrobipalpa,,chardonnayi,,8936,438,2024,ICZN,established,,
+11754,8511,Tuta atriplicella,"(Kieffer & Jörgensen, 1910)",species,,Tuta,,atriplicella,,8900,363,1910,ICZN,established,,
