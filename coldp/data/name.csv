@@ -11713,3 +11713,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 11752,1431,Photodotis modulatrix,"(Meyrick, 1938)",species,,Photodotis,,modulatrix,,8935,206,2024,ICZN,established,,
 11753,11753,Scrobipalpa chardonnayi,"Huemer & Özden, 2024",species,,Scrobipalpa,,chardonnayi,,8936,438,2024,ICZN,established,,
 11754,8511,Tuta atriplicella,"(Kieffer & Jörgensen, 1910)",species,,Tuta,,atriplicella,,8900,363,1910,ICZN,established,,
+11755,11755,Helcystogramma robinsoni,"Metz, 2024",species,,Helcystogramma,,robinsoni,,8937,,2024,ICZN,established,,
+11756,11756,Helcystogramma salonenae,"Metz, 2024",species,,Helcystogramma,,salonenae,,8937,,2024,ICZN,established,,
+11757,11757,Dichomeris adamskii,"Metz, 2024",species,,Dichomeris,,adamskii,,8937,,2024,ICZN,established,,
+11758,6242,Helcystogramma leucopleura,"(Meyrick, 1914)",species,,Helcystogramma,,leucopleura,,8937,,1914,ICZN,established,revised status,

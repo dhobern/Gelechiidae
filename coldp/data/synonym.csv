@@ -1,5 +1,4 @@
 taxonID,nameID,accordingToID,status,referenceID,remarks
-91,92,,synonym,,
 93,94,,synonym,,
 93,95,,synonym,,"An incorrect subsequent spelling of Recurvaria albidorsella Snellen, 1884."
 93,96,,synonym,,"An incorrect subsequent spelling of Recurvaria albidorsella Snellen, 1884."
@@ -2839,7 +2838,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 6235,6236,,synonym,,
 6238,6239,,synonym,,
 6240,6241,,synonym,,
-6240,6242,,synonym,,"A junior subjective synonym of Dichomeris luminosum Busck, 1914 (Clarke 1969b: 444 (Teuchophanes))."
 6243,6244,,synonym,,
 6243,6245,,synonym,,"An unavailable name that was attributed to Metzner but does not meet the availability criteria of the Code (Edn 4), Article 12; it was subsequently made nomenclaturally available by Herrich-Schäffer, 1854."
 6246,6247,,synonym,,
@@ -5187,3 +5185,4 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 9867,2007,,synonym,8935,syn. nov.
 8507,8507,,synonym,8900,
 8510,8510,,synonym,8900,
+11726,6242,,synonym,8937,
