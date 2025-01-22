@@ -613,7 +613,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 613,613,Euryctista,"Janse, 1963",genus,Euryctista,,,,,505,,,ICZN,,,
 614,614,Anomologa demens,"Meyrick, 1926",species,,Anomologa,,demens,,506,,,ICZN,,,
 615,615,Anomologa dispulsa,"Meyrick, 1926",species,,Anomologa,,dispulsa,,507,,,ICZN,,,
-616,617,Anomologa hobohmi,"(Janse, 1963)",species,,Anomologa,,hobohmi,,508,,,ICZN,,,
+616,617,Anomologa hobohmi,"(Janse, 1963)",species,,Anomologa,,hobohmi,,8939,140,2025,ICZN,,,
 617,617,Euryctista hobohmi,"Janse, 1963",species,,Euryctista,,hobohmi,,509,,,ICZN,,,
 618,618,Anomoxena,"Meyrick, 1917",genus,Anomoxena,,,,,510,,,ICZN,,,
 619,619,Anomoxena spinigera,"Meyrick, 1917",species,,Anomoxena,,spinigera,,511,,,ICZN,,,
@@ -11718,3 +11718,4 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 11757,11757,Dichomeris adamskii,"Metz, 2024",species,,Dichomeris,,adamskii,,8937,,2024,ICZN,established,,
 11758,6242,Helcystogramma leucopleura,"(Meyrick, 1914)",species,,Helcystogramma,,leucopleura,,8937,,1914,ICZN,established,revised status,
 11759,11759,Keiferia azapaensis,"Vargas, 2025",species,,Keiferia,,azapaensis,,8938,4,2025,ICZN,established,,
+11760,11760,Anomologa terminata,"Bidzilya, Karsholt, Metz & Rajaei, 2025",species,,Anomologa,,terminata,,8939,142,2025,ICZN,established,,
