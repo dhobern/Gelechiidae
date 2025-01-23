@@ -223,13 +223,11 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 632,633,,synonym,,
 634,635,,synonym,,
 636,639,,synonym,,"An unnecessary objective replacement name for Dactylota Snellen, 1876, a junior homonym; Dactylotula Cockerell, 1888, had already been established as an objective replacement name."
-636,640,,synonym,,"An unavailable name that does not not meet the availability criteria of the Code (Edn 4), Article 12; it was subsequently made nomenclaturally available by Walsingham, 1904 (November)."
-636,641,,synonym,,"A junior subjective synonym of Epiphthora Meyrick, 1888 (Meyrick 1911a: 229), Apatetris Staudinger, 1879 (Meyrick 1918a: 117)."
 636,642,,synonym,,"A junior subjective synonym of Apatetris Staudinger, 1879 (Sakamaki 2000: 211)."
 644,645,,synonym,,
 646,647,,synonym,,
-649,650,,synonym,,
-653,654,,synonym,,
+649,649,,synonym,,
+653,653,,synonym,,
 653,655,,synonym,,"A junior subjective synonym of Proactica halimilignella Walsingham, 1904 (Meyrick 1925c: 23 (Apatetris))."
 656,657,,synonym,,
 660,661,,synonym,,
@@ -1154,6 +1152,7 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 2505,2507,,synonym,,"An objective replacement name for Colopteryx O. Hofmann, 1898, a junior homonym."
 2505,2508,,synonym,,An incorrect subsequent spelling of Catatinagma Rebel.
 2509,2510,,synonym,,
+2510,2510,,synonym,,
 2513,2514,,synonym,,
 2517,2518,,synonym,,
 2519,2520,,synonym,,
