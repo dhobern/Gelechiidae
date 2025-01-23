@@ -3345,7 +3345,7 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 7365,7366,,synonym,,"A junior subjective synonym of Metanarsia modesta Staudinger, 1871 (Bidzilya 2008: 531 (Metanarsia))."
 7370,7371,,synonym,,
 7370,7372,,synonym,,"An incorrect subsequent spelling of Teleia partilella Christoph, 1887."
-7381,7382,,synonym,,"An incorrect subsequent spelling of Metopios Lucas, 1945."
+2505,7382,,synonym,,"An incorrect subsequent spelling of Metopios Lucas, 1945."
 7384,7385,,synonym,,"An incorrect subsequent spelling of Metopleura Busck, 1912."
 7387,7388,,synonym,,"A junior homonym of Cleodora Péron & Lesueur, 1810 (Mollusca) and a senior subjective synonym of Metzneria Zeller, 1839 (Walsingham & Durrant 1899: 199))."
 7387,7389,,synonym,,"A junior subjective synonym of Metzneria) Zeller, 1839 (Walsingham & Durrant 1899: 199)."
@@ -5185,3 +5185,7 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 8507,8507,,synonym,8900,
 8510,8510,,synonym,8900,
 11726,6242,,synonym,8937,
+76,54,,synonym,8939,
+2505,7381,,synonym,8939,
+11734,7383,,synonym,8939,
+11730,601,,synonym,8939,
