@@ -330,7 +330,8 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 785,786,,synonym,,
 785,787,,synonym,,An unavailable infrasubspecific name.
 789,790,,synonym,,
-791,792,,synonym,,
+730,791,,synonym,8960,
+730,792,,synonym,8960,
 793,794,,synonym,,
 795,796,,synonym,,
 797,798,,synonym,,
@@ -3143,7 +3144,8 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 6807,6810,,synonym,,An incorrect subsequent spelling of Apodia psamathias Meyrick.
 6812,6813,,synonym,,
 6812,6814,,synonym,,An incorrect subsequent spelling of Anacampsis biguttella Duponchel.
-6816,6817,,synonym,,
+730,6816,,synonym,8960,
+730,6817,,synonym,8960,
 6822,6823,,synonym,,"A junior subjective synonym of Keiferia Busck, 1939 (Povolný 1993b: 96)."
 6824,6825,,synonym,,
 6827,6828,,synonym,,
@@ -5221,3 +5223,4 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 2505,7381,,synonym,8939,
 11734,7383,,synonym,8939,
 11730,601,,synonym,8939,
+11793,11834,,synonym,8960,original misspelling

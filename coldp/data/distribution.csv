@@ -577,7 +577,6 @@ taxonId,area,gazetteer,status,referenceID,remarks
 783,US,iso,native,,Florida
 785,,,,,Palaearctic: Europe (Ukraine).
 789,KG,iso,native,,
-791,,,,,"Palaearctic: Madeira, Canary Islands."
 793,ZA,iso,native,,KwaZulu-Natal
 795,KZ,iso,native,,
 797,NA,iso,native,,
@@ -4340,7 +4339,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 6811,,,,,Palaearctic.
 6812,,,,,"Palaearctic: southern Europe (Portugal, Spain), Russia"
 6815,,,,,Palaearctic: Europe (Croatia).
-6816,,,,,Palaearctic: Canary Islands.
+730,,,,,Palaearctic: Canary Islands.
 6818,,,,,Palaearctic: Europe.
 6819,,,,,Europe (France).
 6820,,,,,Palaearctic.
@@ -7619,3 +7618,30 @@ taxonId,area,gazetteer,status,referenceID,remarks
 11785,MY-12,iso,native,8957,
 11786,MY-12,iso,native,8958,
 11787,LA,iso,native,8958,
+11788,MN,iso,native,8959,
+10154,RU-AL,iso,native,8959,
+11316,RU-AL,iso,nativem,8959,
+11795,ES-CN,iso,native,8960,
+11796,ES-CN,iso,native,8960,
+11797,ES-CN,iso,native,8960,
+11798,ES-CN,iso,native,8960,
+10342,ES-CN,iso,native,8960,
+10410,ES-CN,iso,native,8960,
+11791,ES-CN,iso,native,8960,
+11789,ES-CN,iso,native,8960,
+11790,ES-CN,iso,native,8960,
+11792,ES-CN,iso,native,8960,
+11793,ES-CN,iso,native,8960,
+11794,ES-CN,iso,native,8960,
+859,ES-CN,iso,native,8960,
+801,ES-CN,iso,native,8960,
+895,ES-CN,iso,native,8960,
+730,ES-CN,iso,native,8960,
+830,ES-CN,iso,native,8960,
+7279,ES-CN,iso,native,8960,
+7316,ES-CN,iso,native,8960,
+7309,ES-CN,iso,native,8960,
+7333,ES-CN,iso,native,8960,
+7303,ES-CN,iso,native,8960,
+495,ES-CN,iso,native,8960,
+400,ES-CN,iso,native,8960,
