@@ -398,7 +398,7 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 917,918,,synonym,,"A junior subjective synonym of Ardozyga Lower, 1902 (Edwards 1996: 109)."
 917,919,,synonym,,"A junior subjective synonym of Ardozyga Lower, 1902. Syn. nov."
 917,920,,synonym,,"A junior subjective synonym of Ardozyga Lower, 1902. Syn. nov. The type-species was included by Meyrick as *hemichlaema and as *hemiclaema, each being an incorrect subsequent spelling."
-917,921,,synonym,,"A junior subjective synonym of Ardozyga Lower, 1902. Syn. nov."
+917,921,,synonym,8962,"A junior subjective synonym of Ardozyga Lower, 1902. Syn. nov."
 917,922,,synonym,,"A junior subjective synonym of Ardozyga Lower, 1902. Syn. nov."
 917,923,,synonym,,"A junior subjective synonym of Ardozyga Lower, 1902 (Edwards 1996: 109)."
 917,924,,synonym,,"A junior subjective synonym of Ardozyga Lower, 1902. Syn. nov."
@@ -564,6 +564,7 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 1207,1208,,synonym,,
 1209,1210,,synonym,,
 1211,1212,,synonym,,
+1211,11836,,synonym,8962,
 1213,1214,,synonym,,
 1215,1216,,synonym,,
 1217,1218,,synonym,,
@@ -1182,10 +1183,10 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 2496,2498,,synonym,,"A junior subjective synonym of Gelechia viscariella Stainton, 1855 (Huemer & Karsholt 2010a: 243 (Caryocolum))."
 2502,2503,,synonym,,
 2502,2504,,synonym,,"A junior subjective synonym of Aristotelia peribapta Lower, 1918 (Edwards 1996: 113 (Catameces))."
-2505,2506,,synonym,,"A junior homonym of Colopteryx Ridgway, 1888, Proc. U.S. natn. Mus. 10: 519 (Aves); the objective replacement name is Coloptilia Fletcher, 1940."
-2505,2507,,synonym,,"An objective replacement name for Colopteryx O. Hofmann, 1898, a junior homonym."
+11736,2506,,synonym,,"A junior homonym of Colopteryx Ridgway, 1888, Proc. U.S. natn. Mus. 10: 519 (Aves); the objective replacement name is Coloptilia Fletcher, 1940."
 2505,2508,,synonym,,An incorrect subsequent spelling of Catatinagma Rebel.
 2509,2510,,synonym,,
+2509,2509,,synonym,,
 2513,2514,,synonym,,
 2517,2518,,synonym,,
 2519,2520,,synonym,,
