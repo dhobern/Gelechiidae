@@ -7647,3 +7647,6 @@ taxonId,area,gazetteer,status,referenceID,remarks
 400,ES-CN,iso,native,8960,
 11800,KR,iso,native,8964,
 11801,KG,iso,native,8965,
+11802,TN,iso,native,8966,
+11802,PT,iso,native,8966,
+11802,ES,iso,native,8966,
