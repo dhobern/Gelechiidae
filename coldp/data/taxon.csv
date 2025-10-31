@@ -6560,3 +6560,6 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 11803,79,11840,D. Hobern,2025-10-12,false,8967,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Afrotelphusa,,Afrotelphusa butarensis,
 11804,79,11841,D. Hobern,2025-10-12,false,8967,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Afrotelphusa,,Afrotelphusa furcatella,
 11805,79,11842,D. Hobern,2025-10-12,false,8967,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,Litini,Afrotelphusa,,Afrotelphusa inopinata,
+11806,64,11843,D. Hobern,2025-10-31,false,8968,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Mercedula,Mercedula,,
+11807,11806,11844,D. Hobern,2025-10-31,false,8968,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Mercedula,,Mercedula fuscomarginata,
+11808,11806,11845,D. Hobern,2025-10-31,false,8968,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Gelechioidea,Gelechiidae,Gelechiinae,,Mercedula,,Mercedula storozhenkoi,
